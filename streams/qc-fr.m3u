@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-name="ICI RDI"tvg-id="ICI.Reseau.de.lInformation.HDTV.(ICIRDIHD).ca"tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png"tvg-chno="1"group-title="📺 Canada Français",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 #EXTINF:-1 tvg-name="Canal Savoir"tvg-id="Savoir.média.(SVMD).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png"tvg-chno="7"group-title="📺 Canada Français",Canal Savoir
