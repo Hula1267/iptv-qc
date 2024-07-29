@@ -1,26 +1,24 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
-#EXTINF:-1 tvg-name="ICI RDI" tvg-id="ICI.Reseau.de.lInformation.HDTV.(ICIRDIHD).ca" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" group-title="📺 Canada Français",ICI RDI
+#EXTINF:-1 tvg-name="ICI RDI"tvg-id="ICI.Reseau.de.lInformation.HDTV.(ICIRDIHD).ca"tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png"tvg-chno="1"group-title="📺 Canada Français",ICI RDI (1)
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
-#EXTINF:-1 tvg-name="Canal Savoir" tvg-id="Savoir.média.(SVMD).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png" group-title="📺 Canada Français",Canal Savoir
+#EXTINF:-1 tvg-name="Canal Savoir"tvg-id="Savoir.média.(SVMD).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png"tvg-chno="7"group-title="📺 Canada Français",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-name="LCN" tvg-id="Le.Canal.Nouvelles.HDTV.(LCND).ca" tvg-logo="https://i.imgur.com/JHOyrgA.png" group-title="📺 Canada Français",LCN
+#EXTINF:-1 tvg-name="LCN"tvg-id="Le.Canal.Nouvelles.HDTV.(LCND).ca"tvg-logo="https://i.imgur.com/JHOyrgA.png"tvg-chno="9"group-title="📺 Canada Français",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
-#EXTINF:-1 tvg-name="TVA Montréal" tvg-id="CFTM.TVA.HDTV.(Montreal).(TVAHD).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA.png" group-title="📺 Canada Français",TVA
+#EXTINF:-1 tvg-name="TVA Montréal"tvg-id="CFTM.TVA.HDTV.(Montreal).(TVAHD).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA.png"tvg-chno="11"group-title="📺 Canada Français",TVA (1)
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Montréal 1080p" tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" group-title="📺 Canada Français",ICI Télé Montréal 1080p
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/84ScGxt.png"tvg-chno="17"group-title="📺 Canada Français",Noovo Téléréalités
+https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/7rZhGIl.png"tvg-chno="19"group-title="📺 Canada Français",Noovo Comédies
+https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/FNzVlkT.png"tvg-chno="21"group-title="📺 Canada Français",Noovo Cinéma
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+#EXTINF:-1 tvg-name="ICI Télé Montréal 720p"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="42"group-title="📺 Canada Français",ICI Télé Montréal (1)
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_3000.m3u8
+#EXTINF:-1 tvg-name="ICI Télé Montréal 1080p"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="43"group-title="📺 Canada Français",ICI Télé Montréal (2)
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Québec" tvg-id="CBVT.ICI.Radio-Canada.HDTV.(Québec).(IRCHD).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" group-title="📺 Canada Français",ICI Télé Québec
+#EXTINF:-1 tvg-name="ICI Télé Québec"tvg-id="CBVT.ICI.Radio-Canada.HDTV.(Québec).(IRCHD).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="49"group-title="📺 Canada Français",ICI Télé Québec
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
-#EXTINF:-1 tvg-id="CBMTDT.ca" tvg-logo="https://i.imgur.com/OiiM6Mz.png" group-title="General",CBC Montréal (CBMT-DT) [Geo-blocked]
-https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
-#EXTINF:-1 tvg-id="WPTZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News",NBC 5 Plattsburgh NY (WPTZ) (720p)
-https://lnc-wptz.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="Undefined",ABC 5 Boston MA (WCVB) (720p)
-https://lnc-wcvb.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WBNSDT1.us" tvg-logo="https://i.imgur.com/S5Hqowu.png" group-title="Undefined",CBS 10 Columbus OH (WBNS) (1080p)
-https://lnc-wbns.tubi.video/live.m3u8
-#EXTINF:-1 tvg-id="WTVTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX 13 Tampa Bay FL (WTVT) (720p)
-https://lnc-wtvt.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="News",France 24 French (1080p)
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 tvg-id="FranceInter.fr" tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="General",France Inter (1080p) [Not 24/7]
@@ -33,9 +31,9 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="News",RT France (1080p) [Geo-blocked]
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:-1 tvg-name="Assemblée Nationale du QC" tvg-id="Assemblée.Nationale.(ASSNA).ca" tvg-logo="http://assets.grenier.qc.ca/cdn-cgi/image/q=90,fit=pad,w=200,h=200/uploads/images/logo-Assnat-complet-Couleur-180593.png" tvg-chno="57" group-title="📺 Canada Français",Assemblée Nationale du QC
+#EXTINF:-1 tvg-name="Assemblée Nationale du QC"tvg-id="Assemblée.Nationale.(ASSNA).ca"tvg-logo="http://assets.grenier.qc.ca/cdn-cgi/image/q=90,fit=pad,w=200,h=200/uploads/images/logo-Assnat-complet-Couleur-180593.png"tvg-chno="57"group-title="📺 Canada Français",Assemblée Nationale du QC
 https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
-#EXTINF:-1 tvg-name="CPAC FR" tvg-id="CPAC.French.HD.(CPACFH).ca "tvg-logo="https://i.imgur.com/5ym6eJS.png" tvg-chno="59" group-title="📺 Canada Français",CPAC FR
+#EXTINF:-1 tvg-name="CPAC FR"tvg-id="CPAC.French.HD.(CPACFH).ca"tvg-logo="https://i.imgur.com/5ym6eJS.png"tvg-chno="59"group-title="📺 Canada Français",CPAC FR
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-id="CBRTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/CBRT-DT_logo.jpg" group-title="General",CBC Calgary (CBRT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
@@ -43,6 +41,8 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
 #EXTINF:-1 tvg-id="CBWTDT.ca" tvg-logo="https://i.imgur.com/aWNHg5z.png" group-title="General",CBC Manitoba (CBWT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
+#EXTINF:-1 tvg-id="CBMTDT.ca" tvg-logo="https://i.imgur.com/OiiM6Mz.png" group-title="General",CBC Montréal (CBMT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 tvg-id="CBATDT.ca" tvg-logo="https://i.imgur.com/xflShTG.png" group-title="General",CBC New Brunswick (CBAT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
 #EXTINF:-1 tvg-id="CBNTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Logo_for_CBNT-DT.jpg" group-title="General",CBC Newfoundland and Labrador (CBNT-DT) [Geo-blocked]
@@ -93,12 +93,20 @@ https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df528024
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
 #EXTINF:-1 tvg-name="Global News Winnipeg"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="228"group-title="📺 Canada English",Global News Winnipeg
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
+#EXTINF:-1 tvg-id="WPTZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News",NBC 5 Plattsburgh NY (WPTZ) (720p)
+https://lnc-wptz.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="WKYCDT1.us" tvg-logo="https://i.imgur.com/zsZrW2K.png" group-title="Undefined",NBC 3 Cleveland OH (WKYC) (1080p)
 https://lnc-wkyc.tubi.video/live.m3u8
 #EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="News",BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="Undefined",ABC 5 Boston MA (WCVB) (720p)
+https://lnc-wcvb.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="WNEPDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC 16 Wilkes Barre PA (WNEP) (1080p)
 https://livevideo.tegnadigital.com/wnep/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WNEP/elvs/live.m3u8
+#EXTINF:-1 tvg-id="WBNSDT1.us" tvg-logo="https://i.imgur.com/S5Hqowu.png" group-title="Undefined",CBS 10 Columbus OH (WBNS) (1080p)
+https://lnc-wbns.tubi.video/live.m3u8
+#EXTINF:-1 tvg-id="WTVTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX 13 Tampa Bay FL (WTVT) (720p)
+https://lnc-wtvt.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="Sports",NHL (1080p)
 https://lnc-nhl.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.Sports.us" tvg-logo="" group-title="Undefined",NBC Sports
