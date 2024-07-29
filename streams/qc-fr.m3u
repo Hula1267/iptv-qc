@@ -1,316 +1,305 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-name="ICI RDI"tvg-id="ICI.Reseau.de.lInformation.HDTV.(ICIRDIHD).ca"tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png"tvg-chno="1"group-title="📺 Canada Français",ICI RDI
+#EXTINF:-1 tvg-name="ICI RDI"tvg-id="ICI.Reseau.de.lInformation.HDTV.(ICIRDIHD).ca"tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png"tvg-chno="1"group-title="Français",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
-#EXTINF:-1 tvg-name="Canal Savoir"tvg-id="Savoir.média.(SVMD).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png"tvg-chno="7"group-title="📺 Canada Français",Canal Savoir
+#EXTINF:-1 tvg-name="Canal Savoir"tvg-id="Savoir.média.(SVMD).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png"tvg-chno="7"group-title="Français",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-name="LCN"tvg-id="Le.Canal.Nouvelles.HDTV.(LCND).ca"tvg-logo="https://i.imgur.com/JHOyrgA.png"tvg-chno="9"group-title="📺 Canada Français",LCN
+#EXTINF:-1 tvg-name="LCN"tvg-id="Le.Canal.Nouvelles.HDTV.(LCND).ca"tvg-logo="https://i.imgur.com/JHOyrgA.png"tvg-chno="9"group-title="Français",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
-#EXTINF:-1 tvg-name="TVA Montréal"tvg-id="CFTM.TVA.HDTV.(Montreal).(TVAHD).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA.png"tvg-chno="11"group-title="📺 Canada Français",TVA
+#EXTINF:-1 tvg-name="TVA Montréal"tvg-id="CFTM.TVA.HDTV.(Montreal).(TVAHD).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA.png"tvg-chno="11"group-title="Français",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Montréal 1080p"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="43"group-title="📺 Canada Français",ICI Télé Montréal
+#EXTINF:-1 tvg-name="ICI Télé Montréal 1080p"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="43"group-title="Français",ICI Télé Montréal
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Québec"tvg-id="CBVT.ICI.Radio-Canada.HDTV.(Québec).(IRCHD).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="49"group-title="📺 Canada Français",ICI Télé Québec
+#EXTINF:-1 tvg-name="ICI Télé Québec"tvg-id="CBVT.ICI.Radio-Canada.HDTV.(Québec).(IRCHD).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="49"group-title="Français",ICI Télé Québec
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
-#EXTINF:-1 tvg-id="WPTZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News",NBC 5 Plattsburgh NY (WPTZ) (720p)
+#EXTINF:-1 tvg-id="WPTZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Anglais",NBC 5 Plattsburgh NY (WPTZ) (720p)
 https://lnc-wptz.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WTVTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX 13 Tampa Bay FL (WTVT) (720p)
+#EXTINF:-1 tvg-id="WTVTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Anglais",FOX 13 Tampa Bay FL (WTVT) (720p)
 https://lnc-wtvt.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="Undefined",ABC 5 Boston MA (WCVB) (720p)
+#EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="Anglais",ABC 5 Boston MA (WCVB) (720p)
 https://lnc-wcvb.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WBNSDT1.us" tvg-logo="https://i.imgur.com/S5Hqowu.png" group-title="Undefined",CBS 10 Columbus OH (WBNS) (1080p)
+#EXTINF:-1 tvg-id="WBNSDT1.us" tvg-logo="https://i.imgur.com/S5Hqowu.png" group-title="Anglais",CBS 10 Columbus OH (WBNS) (1080p)
 https://lnc-wbns.tubi.video/live.m3u8
-#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="News",France 24 French (1080p)
+#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Français",France 24 French (1080p)
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
-#EXTINF:-1 tvg-id="FranceInter.fr" tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="General",France Inter (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="FranceInter.fr" tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="Français",France Inter (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCJldRgT_D7Am-ErRHQZ90uw.m3u8
-#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Français (720p)
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Français",Euronews Français (720p)
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="News",TV5Monde Info (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Français",TV5Monde Info (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Français",TF1 (720p) [Geo-blocked]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="News",RT France (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="Français",RT France (1080p) [Geo-blocked]
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:-1 tvg-name="Assemblée Nationale du QC"tvg-id="Assemblée.Nationale.(ASSNA).ca"tvg-logo="http://assets.grenier.qc.ca/cdn-cgi/image/q=90,fit=pad,w=200,h=200/uploads/images/logo-Assnat-complet-Couleur-180593.png"tvg-chno="57"group-title="📺 Canada Français",Assemblée Nationale du QC
+#EXTINF:-1 tvg-name="Assemblée Nationale du QC"tvg-id="Assemblée.Nationale.(ASSNA).ca"tvg-logo="http://assets.grenier.qc.ca/cdn-cgi/image/q=90,fit=pad,w=200,h=200/uploads/images/logo-Assnat-complet-Couleur-180593.png"tvg-chno="57"group-title="Français",Assemblée Nationale du QC
 https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
-#EXTINF:-1 tvg-name="CPAC FR"tvg-id="CPAC.French.HD.(CPACFH).ca"tvg-logo="https://i.imgur.com/5ym6eJS.png"tvg-chno="59"group-title="📺 Canada Français",CPAC FR
+#EXTINF:-1 tvg-name="CPAC FR"tvg-id="CPAC.French.HD.(CPACFH).ca"tvg-logo="https://i.imgur.com/5ym6eJS.png"tvg-chno="59"group-title="Français",CPAC FR
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-#EXTINF:-1 tvg-id="CBRTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/CBRT-DT_logo.jpg" group-title="General",CBC Calgary (CBRT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBRTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/CBRT-DT_logo.jpg" group-title="Anglais",CBC Calgary (CBRT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
-#EXTINF:-1 tvg-id="CBXTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png" group-title="General",CBC Edmonton (CBXT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBXTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png" group-title="Anglais",CBC Edmonton (CBXT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
-#EXTINF:-1 tvg-id="CBWTDT.ca" tvg-logo="https://i.imgur.com/aWNHg5z.png" group-title="General",CBC Manitoba (CBWT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBWTDT.ca" tvg-logo="https://i.imgur.com/aWNHg5z.png" group-title="Anglais",CBC Manitoba (CBWT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
-#EXTINF:-1 tvg-id="CBMTDT.ca" tvg-logo="https://i.imgur.com/OiiM6Mz.png" group-title="General",CBC Montréal (CBMT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBMTDT.ca" tvg-logo="https://i.imgur.com/OiiM6Mz.png" group-title="Anglais",CBC Montréal (CBMT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
-#EXTINF:-1 tvg-id="CBATDT.ca" tvg-logo="https://i.imgur.com/xflShTG.png" group-title="General",CBC New Brunswick (CBAT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBATDT.ca" tvg-logo="https://i.imgur.com/xflShTG.png" group-title="Anglais",CBC New Brunswick (CBAT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
-#EXTINF:-1 tvg-id="CBNTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Logo_for_CBNT-DT.jpg" group-title="General",CBC Newfoundland and Labrador (CBNT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBNTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Logo_for_CBNT-DT.jpg" group-title="Anglais",CBC Newfoundland and Labrador (CBNT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="News",CBC News Network (1080p)
 https://lnc-cbc2.tubi.video/master.m3u8
-#EXTINF:-1 tvg-id="CFYKDT.ca" tvg-logo="https://i.imgur.com/EHGOQhj.png" group-title="General",CBC North (CFYK-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CFYKDT.ca" tvg-logo="https://i.imgur.com/EHGOQhj.png" group-title="Anglais",CBC North (CFYK-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
-#EXTINF:-1 tvg-id="CBHTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/CBHT-DT_Logo.jpg" group-title="General",CBC Nova Scotia (CBHT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBHTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/CBHT-DT_Logo.jpg" group-title="Anglais",CBC Nova Scotia (CBHT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
-#EXTINF:-1 tvg-id="CBOTDT.ca" tvg-logo="https://i.imgur.com/v3DJUa8.png" group-title="General",CBC Ottawa (CBOT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBOTDT.ca" tvg-logo="https://i.imgur.com/v3DJUa8.png" group-title="Anglais",CBC Ottawa (CBOT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
-#EXTINF:-1 tvg-id="CBCTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/CBCT-DT_logo.jpg" group-title="General",CBC Prince Edward Island (CBCT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/CBCT-DT_logo.jpg" group-title="Anglais",CBC Prince Edward Island (CBCT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
-#EXTINF:-1 tvg-id="CBKTDT.ca" tvg-logo="https://i.imgur.com/PWGVjsg.png" group-title="General",CBC Saskatchewan (CBKT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBKTDT.ca" tvg-logo="https://i.imgur.com/PWGVjsg.png" group-title="Anglais",CBC Saskatchewan (CBKT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
-#EXTINF:-1 tvg-id="CBLTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/CBLT-DT_Logo.jpg" group-title="General",CBC Toronto (CBLT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBLTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/CBLT-DT_Logo.jpg" group-title="Anglais",CBC Toronto (CBLT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-#EXTINF:-1 tvg-id="CBUTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/CBUT-DT_Logo.jpg" group-title="General",CBC Vancouver (CBUT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBUTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/CBUT-DT_Logo.jpg" group-title="Anglais",CBC Vancouver (CBUT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
-#EXTINF:-1 tvg-id="CBETDT.ca" tvg-logo="https://i.imgur.com/NFts1uU.png" group-title="General",CBC Windsor (CBET-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBETDT.ca" tvg-logo="https://i.imgur.com/NFts1uU.png" group-title="Anglais",CBC Windsor (CBET-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CBS News 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Anglais",CBS News 24/7
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6350fdd266e9ea0007bedec5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799153-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15376bcb-2b34-4530-a2f7-c528a8eb2aa3
-#EXTINF:-1 tvg-name="Global News National"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="216"group-title="📺 Canada English",Global News National
+#EXTINF:-1 tvg-name="Global News National"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="216"group-title="Anglais",Global News National
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Okanagan"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="217"group-title="📺 Canada English",Global News Okanagan
+#EXTINF:-1 tvg-name="Global News Okanagan"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="217"group-title="Anglais",Global News Okanagan
 https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News BC"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="218"group-title="📺 Canada English",Global News BC
+#EXTINF:-1 tvg-name="Global News BC"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="218"group-title="Anglais",Global News BC
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Calgary"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="219"group-title="📺 Canada English",Global News Calgary
+#EXTINF:-1 tvg-name="Global News Calgary"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="219"group-title="Anglais",Global News Calgary
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Edmonton"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="220"group-title="📺 Canada English",Global News Edmonton
+#EXTINF:-1 tvg-name="Global News Edmonton"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="220"group-title="Anglais",Global News Edmonton
 https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Halifax"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="221"group-title="📺 Canada English",Global News Halifax
+#EXTINF:-1 tvg-name="Global News Halifax"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="221"group-title="Anglais",Global News Halifax
 https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Kingston"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="222"group-title="📺 Canada English",Global News Kingston
+#EXTINF:-1 tvg-name="Global News Kingston"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="222"group-title="Anglais",Global News Kingston
 https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Montreal"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="223"group-title="📺 Canada English",Global News Montreal
+#EXTINF:-1 tvg-name="Global News Montreal"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="223"group-title="Anglais",Global News Montreal
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Peterborough"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="224"group-title="📺 Canada English",Global News Peterborough
+#EXTINF:-1 tvg-name="Global News Peterborough"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="224"group-title="Anglais",Global News Peterborough
 https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Regina"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="225"group-title="📺 Canada English",Global News Regina
+#EXTINF:-1 tvg-name="Global News Regina"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="225"group-title="Anglais",Global News Regina
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Saskatoon"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="226"group-title="📺 Canada English",Global News Saskatoon
+#EXTINF:-1 tvg-name="Global News Saskatoon"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="226"group-title="Anglais",Global News Saskatoon
 https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Toronto"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="227"group-title="📺 Canada English",Global News Toronto
+#EXTINF:-1 tvg-name="Global News Toronto"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="227"group-title="Anglais",Global News Toronto
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Winnipeg"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="228"group-title="📺 Canada English",Global News Winnipeg
+#EXTINF:-1 tvg-name="Global News Winnipeg"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="228"group-title="Anglais",Global News Winnipeg
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
-#EXTINF:-1 tvg-id="WKYCDT1.us" tvg-logo="https://i.imgur.com/zsZrW2K.png" group-title="Undefined",NBC 3 Cleveland OH (WKYC) (1080p)
+#EXTINF:-1 tvg-id="WKYCDT1.us" tvg-logo="https://i.imgur.com/zsZrW2K.png" group-title="Anglais",NBC 3 Cleveland OH (WKYC) (1080p)
 https://lnc-wkyc.tubi.video/live.m3u8
-#EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="News",BBC News (North America) (1080p)
+#EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="Anglais",BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="WNEPDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC 16 Wilkes Barre PA (WNEP) (1080p)
+#EXTINF:-1 tvg-id="WNEPDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Anglais",ABC 16 Wilkes Barre PA (WNEP) (1080p)
 https://livevideo.tegnadigital.com/wnep/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WNEP/elvs/live.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="Sports",NHL (1080p)
 https://lnc-nhl.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.Sports.us" tvg-logo="" group-title="Undefined",NBC Sports
+#EXTINF:-1 tvg-id="NBC.Sports.us" tvg-logo="" group-title="Sports",NBC Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5102-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21e31328-eadb-4828-8608-0cc14ce24586
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dazn TV Canada (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Dazn TV Canada (720p)
 https://live-manifest.production-public.tubi.io/live/dazntv-canada/h264/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Un gars une fille
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Contenu en continu",Un gars une fille
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3ece7b09fd6000783bfb9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d810-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d4806e73-8205-4c2d-96f4-b4107c552c9a
 #### Radio ####
-#EXTINF:-1 tvg-name="Radio Pirate"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://image.radioking.io/radios/497272/coverdefault/30163b69-418d-4455-bec5-178f430c2820.png"tvg-chno="100"group-title="📻 Radio Québécoise",Radio Pirate
+#EXTINF:-1 tvg-name="Radio Pirate"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://image.radioking.io/radios/497272/coverdefault/30163b69-418d-4455-bec5-178f430c2820.png"tvg-chno="100"group-title="Radio Québécoise",Radio Pirate
 https://listen.radioking.com/radio/497272/stream/554380
-#EXTINF:-1 tvg-name="CHOI 981 Radio X"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s12492/images/logod.png?t=1"tvg-chno="101"group-title="📻 Radio Québécoise",CHOI 981 Radio X
+#EXTINF:-1 tvg-name="CHOI 981 Radio X"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s12492/images/logod.png?t=1"tvg-chno="101"group-title="Radio Québécoise",CHOI 981 Radio X
 http://stream2.radiox.com:80/choi.aac
-#EXTINF:-1 tvg-name="KYK 95.7  Radio X"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s3056/images/logod.png"tvg-chno="102"group-title="📻 Radio Québécoise",KYK 95.7  Radio X
+#EXTINF:-1 tvg-name="KYK 95.7  Radio X"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s3056/images/logod.png"tvg-chno="102"group-title="Radio Québécoise",KYK 95.7  Radio X
 https://24403.live.streamtheworld.com/CKYKFMAAC.aac
-#EXTINF:-1 tvg-name="98.5 fm (Montréal)"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c5/Logo_985_saison_2021.png"tvg-chno="103"group-title="📻 Radio Québécoise",98.5 fm (Montréal)
+#EXTINF:-1 tvg-name="98.5 fm (Montréal)"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c5/Logo_985_saison_2021.png"tvg-chno="103"group-title="Radio Québécoise",98.5 fm (Montréal)
 https://24503.live.streamtheworld.com/CHMPFMAAC.aac
-#EXTINF:-1 tvg-name="QUB radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mktdmngxusha.png"tvg-chno="104"group-title="📻 Radio Québécoise",QUB radio
+#EXTINF:-1 tvg-name="QUB radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mktdmngxusha.png"tvg-chno="104"group-title="Radio Québécoise",QUB radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aac
-#EXTINF:-1 tvg-name="ICI Première"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png"tvg-chno="105"group-title="📻 Radio Québécoise",ICI Première
+#EXTINF:-1 tvg-name="ICI Première"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png"tvg-chno="105"group-title="Radio Québécoise",ICI Première
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
-#EXTINF:-1 tvg-name="Cool FM 103.5 Beauce"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/9dpjMfa78W.png"tvg-chno="106"group-title="📻 Radio Québécoise",Cool FM 103.5 Beauce
+#EXTINF:-1 tvg-name="Cool FM 103.5 Beauce"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/9dpjMfa78W.png"tvg-chno="106"group-title="Radio Québécoise",Cool FM 103.5 Beauce
 https://stream.statsradio.com:8040/stream
-#EXTINF:-1 tvg-name="FM93"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s7732/images/logod.jpg"tvg-chno="107"group-title="📻 Radio Québécoise",FM93
+#EXTINF:-1 tvg-name="FM93"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s7732/images/logod.jpg"tvg-chno="107"group-title="Radio Québécoise",FM93
 https://24443.live.streamtheworld.com/CJMFFMAAC.aac
-#EXTINF:-1 tvg-name="Radio Unicité"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://image.radioking.io/radios/521287/logo/17194d0c-d82c-4161-8f34-a3803e0f210e.png"tvg-chno="108"group-title="📻 Radio Québécoise",Radio Unicité
+#EXTINF:-1 tvg-name="Radio Unicité"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://image.radioking.io/radios/521287/logo/17194d0c-d82c-4161-8f34-a3803e0f210e.png"tvg-chno="108"group-title="Radio Québécoise",Radio Unicité
 https://listen.radioking.com/radio/521287/stream/579484
-#EXTINF:-1 tvg-name="CNV"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://cnv.ca/CNV-LecteurAudio%20copy.png"tvg-chno="109"group-title="📻 Radio Québécoise",CNV
+#EXTINF:-1 tvg-name="CNV"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://cnv.ca/CNV-LecteurAudio%20copy.png"tvg-chno="109"group-title="Radio Québécoise",CNV
 https://centova.radioservers.biz/proxy/cnvnicol/stream
-#EXTINF:-1 tvg-name="BLVD 102.1"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.blvd.fm/img/logoBLVD.png"tvg-chno="110"group-title="📻 Radio Québécoise",BLVD 102.1
+#EXTINF:-1 tvg-name="BLVD 102.1"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.blvd.fm/img/logoBLVD.png"tvg-chno="110"group-title="Radio Québécoise",BLVD 102.1
 https://streaming2.cfel.leclerccommunication.ca/proxy/cfel/cfel.mp3&1649787482
-#EXTINF:-1 tvg-name="ICI Musique"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radios-quebecoises.com/wp-content/uploads/2020/01/logo-ici-musique-100-9-fm-saguenay-en-direct.png"tvg-chno="111"group-title="📻 Radio Québécoise",ICI Musique
+#EXTINF:-1 tvg-name="ICI Musique"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radios-quebecoises.com/wp-content/uploads/2020/01/logo-ici-musique-100-9-fm-saguenay-en-direct.png"tvg-chno="111"group-title="Radio Québécoise",ICI Musique
 https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8
-#EXTINF:-1 tvg-name="IROCK 247"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://www.irock247.com/uploads/1/1/2/4/112474927/logo-font2_2_orig.jpg"tvg-chno="112"group-title="📻 Radio Québécoise",IROCK 247
+#EXTINF:-1 tvg-name="IROCK 247"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://www.irock247.com/uploads/1/1/2/4/112474927/logo-font2_2_orig.jpg"tvg-chno="112"group-title="Radio Québécoise",IROCK 247
 https://streamer.radio.co/s493283a7e/listen
-#EXTINF:-1 tvg-name="CKOI 96.9"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-radiotime-logos.tunein.com/s24774d.png"tvg-chno="113"group-title="📻 Radio Québécoise",CKOI 96.9
+#EXTINF:-1 tvg-name="CKOI 96.9"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-radiotime-logos.tunein.com/s24774d.png"tvg-chno="113"group-title="Radio Québécoise",CKOI 96.9
 https://24443.live.streamtheworld.com/CKOIFMAAC.aac
-#EXTINF:-1 tvg-name="Chil 365"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-radiotime-logos.tunein.com/s155473d.png"tvg-chno="114"group-title="📻 Radio Québécoise",Chil 365
+#EXTINF:-1 tvg-name="Chil 365"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-radiotime-logos.tunein.com/s155473d.png"tvg-chno="114"group-title="Radio Québécoise",Chil 365
 http://xlnetwork.info:9998/stream
-#EXTINF:-1 tvg-name="CNV Succès Absolus"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://cnv.ca/CNV-LecteurAudio%20copy.png"tvg-chno="115"group-title="📻 Radio Québécoise",CNV Succès Absolus
+#EXTINF:-1 tvg-name="CNV Succès Absolus"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://cnv.ca/CNV-LecteurAudio%20copy.png"tvg-chno="115"group-title="Radio Québécoise",CNV Succès Absolus
 https://centova.radioservers.biz/proxy/cnv4/stream
-#EXTINF:-1 tvg-name="CHOM 97.7"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s31168/images/logod.png?t=160441"tvg-chno="116"group-title="📻 Radio Québécoise",CHOM 97.7
+#EXTINF:-1 tvg-name="CHOM 97.7"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s31168/images/logod.png?t=160441"tvg-chno="116"group-title="Radio Québécoise",CHOM 97.7
 https://14133.live.streamtheworld.com/CHOMFMAAC.aac
-#EXTINF:-1 tvg-name="Radio Gaspésie 94.5"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radiogaspesie.ca/wp-content/uploads/radio_couleur_2016-1.png"tvg-chno="117"group-title="📻 Radio Québécoise",Radio Gaspésie 94.5
+#EXTINF:-1 tvg-name="Radio Gaspésie 94.5"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radiogaspesie.ca/wp-content/uploads/radio_couleur_2016-1.png"tvg-chno="117"group-title="Radio Québécoise",Radio Gaspésie 94.5
 http://stream02.ustream.ca:8000/cjrg128.mp3
-#EXTINF:-1 tvg-name="CJMS Rock"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cjms.ca/assets/cjms_rock.png"tvg-chno="118"group-title="📻 Radio Québécoise",CJMS Rock
+#EXTINF:-1 tvg-name="CJMS Rock"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cjms.ca/assets/cjms_rock.png"tvg-chno="118"group-title="Radio Québécoise",CJMS Rock
 https://cjms.ca:8002/cjmsrock2
-#EXTINF:-1 tvg-name="CJMS Country"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cjms.ca/assets/cjms_country.png"tvg-chno="119"group-title="📻 Radio Québécoise",CJMS Country
+#EXTINF:-1 tvg-name="CJMS Country"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cjms.ca/assets/cjms_country.png"tvg-chno="119"group-title="Radio Québécoise",CJMS Country
 https://cjms.ca:8002/stream
-#EXTINF:-1 tvg-name="CJMS Pop"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cjms.ca/assets/cjms_pop.png"tvg-chno="120"group-title="📻 Radio Québécoise",CJMS Pop
+#EXTINF:-1 tvg-name="CJMS Pop"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cjms.ca/assets/cjms_pop.png"tvg-chno="120"group-title="Radio Québécoise",CJMS Pop
 https://cjms.ca:8002/cjmspop
-#EXTINF:-1 tvg-name="WKnd 99.5  Montréal"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://montreal.wknd.fm/img/logo-wknd.png"tvg-chno="121"group-title="📻 Radio Québécoise",WKnd 99.5  Montréal
+#EXTINF:-1 tvg-name="WKnd 99.5  Montréal"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://montreal.wknd.fm/img/logo-wknd.png"tvg-chno="121"group-title="Radio Québécoise",WKnd 99.5  Montréal
 http://streaming.cjpx.leclerccommunication.ca:8000/cjpx.mp3
-#EXTINF:-1 tvg-name="WKnd 91.9  Québec"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://quebec.wknd.fm/img/logo-wknd.png"tvg-chno="122"group-title="📻 Radio Québécoise",WKnd 91.9  Québec
+#EXTINF:-1 tvg-name="WKnd 91.9  Québec"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://quebec.wknd.fm/img/logo-wknd.png"tvg-chno="122"group-title="Radio Québécoise",WKnd 91.9  Québec
 https://streaming2.cjec.leclerccommunication.ca/proxy/wknd/cjec.mp3
-#EXTINF:-1 tvg-name="Rythme FM 105,7 Montréal"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s31119/images/logod.jpg"tvg-chno="123"group-title="📻 Radio Québécoise",Rythme FM 105.7 Montréal
+#EXTINF:-1 tvg-name="Rythme FM 105,7 Montréal"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s31119/images/logod.jpg"tvg-chno="123"group-title="Radio Québécoise",Rythme FM 105.7 Montréal
 https://24403.live.streamtheworld.com/CFGLFMAAC.aac
-#EXTINF:-1 tvg-name="Rythme FM 102,9 Québec"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s2776/images/logod.jpg"tvg-chno="124"group-title="📻 Radio Québécoise",Rythme FM 102.9 Québec
+#EXTINF:-1 tvg-name="Rythme FM 102,9 Québec"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s2776/images/logod.jpg"tvg-chno="124"group-title="Radio Québécoise",Rythme FM 102.9 Québec
 https://22833.live.streamtheworld.com/CFOMFMAAC.aac
-#EXTINF:-1 tvg-name="Rythme FM 98.3 Saguenay"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s7749/images/logod.jpg"tvg-chno="125"group-title="📻 Radio Québécoise",Rythme FM 98.3 Saguenay
+#EXTINF:-1 tvg-name="Rythme FM 98.3 Saguenay"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s7749/images/logod.jpg"tvg-chno="125"group-title="Radio Québécoise",Rythme FM 98.3 Saguenay
 https://20593.live.streamtheworld.com/CILMFMAAC.aac
-#EXTINF:-1 tvg-name="Rythme FM 100.1 Mauricie"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s113509/images/logod.jpg"tvg-chno="126"group-title="📻 Radio Québécoise",Rythme FM 100.1 Mauricie
+#EXTINF:-1 tvg-name="Rythme FM 100.1 Mauricie"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s113509/images/logod.jpg"tvg-chno="126"group-title="Radio Québécoise",Rythme FM 100.1 Mauricie
 https://24443.live.streamtheworld.com/CJEBFMAAC.aac
-#EXTINF:-1 tvg-name="Rythme FM 93.7 - 98.1 Estrie"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s113507/images/logod.jpg"tvg-chno="127"group-title="📻 Radio Québécoise",Rythme FM 93.7 - 98.1 Estrie
+#EXTINF:-1 tvg-name="Rythme FM 93.7 - 98.1 Estrie"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s113507/images/logod.jpg"tvg-chno="127"group-title="Radio Québécoise",Rythme FM 93.7 - 98.1 Estrie
 https://18183.live.streamtheworld.com/CILMFMAAC.aac
-#EXTINF:-1 tvg-name="O_104.3 Abitibi"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://oabitibi.ca/wp-content/uploads/2019/09/oabitibi_all_freq_400px.png"tvg-chno="128"group-title="📻 Radio Québécoise",O_104.3 Abitibi
+#EXTINF:-1 tvg-name="O_104.3 Abitibi"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://oabitibi.ca/wp-content/uploads/2019/09/oabitibi_all_freq_400px.png"tvg-chno="128"group-title="Radio Québécoise",O_104.3 Abitibi
 https://stream2.statsradio.com:8136/stream
-#EXTINF:-1 tvg-name="O_95.3 Matane"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/B1QN6dW.png"tvg-chno="129"group-title="📻 Radio Québécoise",O_95.3 Matane
+#EXTINF:-1 tvg-name="O_95.3 Matane"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/B1QN6dW.png"tvg-chno="129"group-title="Radio Québécoise",O_95.3 Matane
 https://19293.live.streamtheworld.com/CHOE_FM.mp3
-#EXTINF:-1 tvg-name="O_97.1 La Tuque"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/i4WjvPp.png"tvg-chno="130"group-title="📻 Radio Québécoise",O_97.1 La Tuque
+#EXTINF:-1 tvg-name="O_97.1 La Tuque"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/i4WjvPp.png"tvg-chno="130"group-title="Radio Québécoise",O_97.1 La Tuque
 https://19293.live.streamtheworld.com/CFLM_FM.mp3
-#EXTINF:-1 tvg-name="O_97.3 Centre-du-Quebec et des Appalaches"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/tzelPZ8.png"tvg-chno="131"group-title="📻 Radio Québécoise",O_97.3 Centre-du-Quebec et des Appalaches
+#EXTINF:-1 tvg-name="O_97.3 Centre-du-Quebec et des Appalaches"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/tzelPZ8.png"tvg-chno="131"group-title="Radio Québécoise",O_97.3 Centre-du-Quebec et des Appalaches
 https://19293.live.streamtheworld.com/CFJO_FM.mp3
-#EXTINF:-1 tvg-name="O_99.1 Sept-Iles et Port-Cartier"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/OfpCTlP.png"tvg-chno="132"group-title="📻 Radio Québécoise",O_99.1 Sept-Iles et Port-Cartier
+#EXTINF:-1 tvg-name="O_99.1 Sept-Iles et Port-Cartier"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/OfpCTlP.png"tvg-chno="132"group-title="Radio Québécoise",O_99.1 Sept-Iles et Port-Cartier
 https://18163.live.streamtheworld.com/CIPC_FM.mp3
-#EXTINF:-1 tvg-name="O_101.5  Beauce"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/lh7zAt6.png"tvg-chno="133"group-title="📻 Radio Québécoise",O_101.5  Beauce
+#EXTINF:-1 tvg-name="O_101.5  Beauce"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/lh7zAt6.png"tvg-chno="133"group-title="Radio Québécoise",O_101.5  Beauce
 https://19293.live.streamtheworld.com/CHEQ_FM.mp3
-#EXTINF:-1 tvg-name="O_103.5 Lanaudiere"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/3smuDBA.png"tvg-chno="134"group-title="📻 Radio Québécoise",O_103.5 Lanaudiere
+#EXTINF:-1 tvg-name="O_103.5 Lanaudiere"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/3smuDBA.png"tvg-chno="134"group-title="Radio Québécoise",O_103.5 Lanaudiere
 https://19293.live.streamtheworld.com/CJLM_FM.mp3
-#EXTINF:-1 tvg-name="Énergie Montreal 94.3"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/rgCQgKo.png"tvg-chno="135"group-title="📻 Radio Québécoise",Énergie Montreal 94.3
+#EXTINF:-1 tvg-name="Énergie Montreal 94.3"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/rgCQgKo.png"tvg-chno="135"group-title="Radio Québécoise",Énergie Montreal 94.3
 https://15233.live.streamtheworld.com/CKMFFMAAC.aac
-#EXTINF:-1 tvg-name="Énergie Quebec 98.9"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/QFY9hWE.png"tvg-chno="136"group-title="📻 Radio Québécoise",Énergie Quebec 98.9
+#EXTINF:-1 tvg-name="Énergie Quebec 98.9"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/QFY9hWE.png"tvg-chno="136"group-title="Radio Québécoise",Énergie Quebec 98.9
 https://24443.live.streamtheworld.com/CHIKFMAAC.aac
-#EXTINF:-1 tvg-name="Énergie Saguenay 94.5"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s7724/images/logod.png?t=160441"tvg-chno="137"group-title="📻 Radio Québécoise",Énergie Saguenay 94.5
+#EXTINF:-1 tvg-name="Énergie Saguenay 94.5"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s7724/images/logod.png?t=160441"tvg-chno="137"group-title="Radio Québécoise",Énergie Saguenay 94.5
 https://14123.live.streamtheworld.com/CJABFMAAC_SC
-#EXTINF:-1 tvg-name="Énergie Gatineau 104.1"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s12319/images/logod.png"tvg-chno="138"group-title="📻 Radio Québécoise",Énergie Gatineau 104.1
+#EXTINF:-1 tvg-name="Énergie Gatineau 104.1"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s12319/images/logod.png"tvg-chno="138"group-title="Radio Québécoise",Énergie Gatineau 104.1
 https://14123.live.streamtheworld.com/CKTFFMAAC_SC
-#EXTINF:-1 tvg-name="Énergie Magog-Sherbrooke 106.1-106.9"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/LgKt9B4.png"tvg-chno="139"group-title="📻 Radio Québécoise",Énergie Magog-Sherbrooke 106.1-106.9
+#EXTINF:-1 tvg-name="Énergie Magog-Sherbrooke 106.1-106.9"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/LgKt9B4.png"tvg-chno="139"group-title="Radio Québécoise",Énergie Magog-Sherbrooke 106.1-106.9
 https://22113.live.streamtheworld.com/CIMOFMAAC_SC
-#EXTINF:-1 tvg-name="Plaisir 94.1 Sept-Iles"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/bQYJaHg.png"tvg-chno="140"group-title="📻 Radio Québécoise",Plaisir 94.1 Sept-Iles
+#EXTINF:-1 tvg-name="Plaisir 94.1 Sept-Iles"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/bQYJaHg.png"tvg-chno="140"group-title="Radio Québécoise",Plaisir 94.1 Sept-Iles
 https://17483.live.streamtheworld.com/CKCN_FM.mp3
-#EXTINF:-1 tvg-name="Plaisir 101.9 Victoriaville"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/U0pmW7i.png"tvg-chno="141"group-title="📻 Radio Québécoise",Plaisir 101.9 Victoriaville
+#EXTINF:-1 tvg-name="Plaisir 101.9 Victoriaville"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/U0pmW7i.png"tvg-chno="141"group-title="Radio Québécoise",Plaisir 101.9 Victoriaville
 https://17483.live.streamtheworld.com/CFDA_FM.mp3
-#EXTINF:-1 tvg-name="Plaisir 105.3 Matane"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/oUt2tlv.png"tvg-chno="142"group-title="📻 Radio Québécoise",Plaisir 105.3 Matane
+#EXTINF:-1 tvg-name="Plaisir 105.3 Matane"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/oUt2tlv.png"tvg-chno="142"group-title="Radio Québécoise",Plaisir 105.3 Matane
 https://19293.live.streamtheworld.com/CHRM_FM.mp3
-#EXTINF:-1 tvg-name="Plaisir 105.5 Thetford Mines"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/oHWNh8a.png"tvg-chno="143"group-title="📻 Radio Québécoise",Plaisir 105.5 Thetford Mines
+#EXTINF:-1 tvg-name="Plaisir 105.5 Thetford Mines"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/oHWNh8a.png"tvg-chno="143"group-title="Radio Québécoise",Plaisir 105.5 Thetford Mines
 http://stream.statsradio.com:8010/stream
-#EXTINF:-1 tvg-name="Plaisir 106.7 Lac-Megantic"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/wD77aSH.png"tvg-chno="144"group-title="📻 Radio Québécoise",Plaisir 106.7 Lac-Megantic
+#EXTINF:-1 tvg-name="Plaisir 106.7 Lac-Megantic"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/wD77aSH.png"tvg-chno="144"group-title="Radio Québécoise",Plaisir 106.7 Lac-Megantic
 https://19293.live.streamtheworld.com/CJIT_FM.mp3
-#EXTINF:-1 tvg-name="Rouge FM Montreal 107.3"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/Iz59VNG.png"tvg-chno="145"group-title="📻 Radio Québécoise",Rouge FM Montreal 107.3
+#EXTINF:-1 tvg-name="Rouge FM Montreal 107.3"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/Iz59VNG.png"tvg-chno="145"group-title="Radio Québécoise",Rouge FM Montreal 107.3
 https://22123.live.streamtheworld.com/CITEFM_SC
-#EXTINF:-1 tvg-name="Rouge FM Quebec 107.5"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/7HmxwEj.png"tvg-chno="146"group-title="📻 Radio Québécoise",Rouge FM Quebec 107.5
+#EXTINF:-1 tvg-name="Rouge FM Quebec 107.5"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/7HmxwEj.png"tvg-chno="146"group-title="Radio Québécoise",Rouge FM Quebec 107.5
 https://26103.live.streamtheworld.com/CITFFMAACTEST_48.aac
-#EXTINF:-1 tvg-name="Rouge FM Gatineau 94.9"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s12316/images/logod.png"tvg-chno="147"group-title="📻 Radio Québécoise",Rouge FM Gatineau 94.9
+#EXTINF:-1 tvg-name="Rouge FM Gatineau 94.9"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s12316/images/logod.png"tvg-chno="147"group-title="Radio Québécoise",Rouge FM Gatineau 94.9
 https://24463.live.streamtheworld.com/CIMFFMAAC.aac
-#EXTINF:-1 tvg-name="Rouge FM Saguenay 96.9"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/hqgw3Iu.png"tvg-chno="148"group-title="📻 Radio Québécoise",Rouge FM Saguenay 96.9
+#EXTINF:-1 tvg-name="Rouge FM Saguenay 96.9"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/hqgw3Iu.png"tvg-chno="148"group-title="Radio Québécoise",Rouge FM Saguenay 96.9
 https://14123.live.streamtheworld.com/CFIXFMAAC_SC
-#EXTINF:-1 tvg-name="Rouge FM Mauricie 94.7"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/D65EJMR.png"tvg-chno="149"group-title="📻 Radio Québécoise",Rouge FM Mauricie 94.7
+#EXTINF:-1 tvg-name="Rouge FM Mauricie 94.7"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/D65EJMR.png"tvg-chno="149"group-title="Radio Québécoise",Rouge FM Mauricie 94.7
 https://24443.live.streamtheworld.com/CHEYFMAAC.aac
-#EXTINF:-1 tvg-name="Rouge FM Amqui 99.9"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/6GPUZmB.png"tvg-chno="150"group-title="📻 Radio Québécoise",Rouge FM Amqui 99.9
+#EXTINF:-1 tvg-name="Rouge FM Amqui 99.9"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/6GPUZmB.png"tvg-chno="150"group-title="Radio Québécoise",Rouge FM Amqui 99.9
 https://14123.live.streamtheworld.com/CFVMFMAAC_SC
-#EXTINF:-1 tvg-name="Hit Country 105.3 Beauce"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://hitcountry.com/wp-content/uploads/2020/01/Beauce_blanc-transparent.png"tvg-chno="151"group-title="📻 Radio Québécoise",Hit Country 105.3 Beauce
+#EXTINF:-1 tvg-name="Hit Country 105.3 Beauce"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://hitcountry.com/wp-content/uploads/2020/01/Beauce_blanc-transparent.png"tvg-chno="151"group-title="Radio Québécoise",Hit Country 105.3 Beauce
 https://stream2.statsradio.com:8108/stream
-#EXTINF:-1 tvg-name="Hit Country 105.5 Saguenay"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/CMjpiOQ.png"tvg-chno="152"group-title="📻 Radio Québécoise",Hit Country 105.5 Saguenay
+#EXTINF:-1 tvg-name="Hit Country 105.5 Saguenay"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.imgur.com/CMjpiOQ.png"tvg-chno="152"group-title="Radio Québécoise",Hit Country 105.5 Saguenay
 http://stream.statsradio.com:8088/stream
-#EXTINF:-1 tvg-name="Québec Country Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://quebec-country.com/wp-content/uploads/2019/10/RQC2017-1-1024x683.jpg"tvg-chno="154"group-title="📻 Radio Québécoise",Québec Country Radio
+#EXTINF:-1 tvg-name="Québec Country Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://quebec-country.com/wp-content/uploads/2019/10/RQC2017-1-1024x683.jpg"tvg-chno="154"group-title="Radio Québécoise",Québec Country Radio
 http://play.quebec-country.com/
-#EXTINF:-1 tvg-name="99.7 MIX Beauce"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://www.mix997.com/assets/img/facebook.png"tvg-chno="155"group-title="📻 Radio Québécoise",99.7 MIX Beauce
+#EXTINF:-1 tvg-name="99.7 MIX Beauce"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://www.mix997.com/assets/img/facebook.png"tvg-chno="155"group-title="Radio Québécoise",99.7 MIX Beauce
 http://stream.statsradio.com:8054/stream
-#EXTINF:-1 tvg-name="Truck Stop Quebec"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.truckstopquebec.com/wp-content/uploads/2013/10/tsq300x901.png"tvg-chno="156"group-title="📻 Radio Québécoise",Truck Stop Quebec
+#EXTINF:-1 tvg-name="Truck Stop Quebec"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.truckstopquebec.com/wp-content/uploads/2013/10/tsq300x901.png"tvg-chno="156"group-title="Radio Québécoise",Truck Stop Quebec
 http://canada1.reliastream.com:8052/live
-#EXTINF:-1 tvg-name="CKAJ 92.5  Saguenay"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://ckaj.org/wp-content/uploads/2023/04/Asset-1white.png"tvg-chno="157"group-title="📻 Radio Québécoise",CKAJ 92.5  Saguenay
+#EXTINF:-1 tvg-name="CKAJ 92.5  Saguenay"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://ckaj.org/wp-content/uploads/2023/04/Asset-1white.png"tvg-chno="157"group-title="Radio Québécoise",CKAJ 92.5  Saguenay
 https://stream.statsradio.com/8060/stream
-#EXTINF:-1 tvg-name="CFNJ 99.1 & 88.9 Lanaudière"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cfnj.net/wp-content/uploads/2022/10/Logo-header-CFNJ-2022.png"tvg-chno="159"group-title="📻 Radio Québécoise",CFNJ 99.1 & 88.9 Lanaudière
+#EXTINF:-1 tvg-name="CFNJ 99.1 & 88.9 Lanaudière"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cfnj.net/wp-content/uploads/2022/10/Logo-header-CFNJ-2022.png"tvg-chno="159"group-title="Radio Québécoise",CFNJ 99.1 & 88.9 Lanaudière
 https://stream.statsradio.com:8104/stream
 
 #### Musique ####
 
 
-#EXTINF:-1 tvg-name="Stingray Greatest Hits"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="300"group-title="📺 Stingray Music",Stingray Greatest Hits
+#EXTINF:-1 tvg-name="Stingray Greatest Hits"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="300"group-title="Stingray Music",Stingray Greatest Hits
 https://jmp2.uk/SamsungTVPlus/CABD1200037BS.m3u8
-#EXTINF:-1 tvg-name="Stingray Hit List"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="301"group-title="📺 Stingray Music",Stingray Easy Listening
+#EXTINF:-1 tvg-name="Stingray Hit List"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="301"group-title="Stingray Music",Stingray Easy Listening
 https://jmp2.uk/SamsungTVPlus/CABD1200030YP.m3u8
-#EXTINF:-1 tvg-name="Stingray Classic Rock"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="302"group-title="📺 Stingray Music",Stingray Classic Rock
+#EXTINF:-1 tvg-name="Stingray Classic Rock"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="302"group-title="Stingray Music",Stingray Classic Rock
 https://jmp2.uk/SamsungTVPlus/CABD1200036YT.m3u8
-#EXTINF:-1 tvg-name="Stingray Rock Alternative"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="303"group-title="📺 Stingray Music",Stingray Smooth Jazz
+#EXTINF:-1 tvg-name="Stingray Rock Alternative"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="303"group-title="Stingray Music",Stingray Smooth Jazz
 https://jmp2.uk/SamsungTVPlus/CABD1200031NL.m3u8
-#EXTINF:-1 tvg-name="Stingray Pop Adult"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="304"group-title="📺 Stingray Music",Stingray Today's K-Pop
+#EXTINF:-1 tvg-name="Stingray Pop Adult"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="304"group-title="Stingray Music",Stingray Today's K-Pop
 https://jmp2.uk/SamsungTVPlus/CABD1200034DU.m3u8
-#EXTINF:-1 tvg-name="Stingray Urban Beat"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="305"group-title="📺 Stingray Music",Stingray Hip Hop
+#EXTINF:-1 tvg-name="Stingray Urban Beat"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="305"group-title="Stingray Music",Stingray Hip Hop
 https://jmp2.uk/SamsungTVPlus/CABD1200029U0.m3u8
-#EXTINF:-1 tvg-name="Stingray Hot Country"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="306"group-title="📺 Stingray Music",Stingray Hot Country
+#EXTINF:-1 tvg-name="Stingray Hot Country"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="306"group-title="Stingray Music",Stingray Hot Country
 https://jmp2.uk/SamsungTVPlus/CABD1200025IX.m3u8
-#EXTINF:-1 tvg-name="Stingray Flashback 70s"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="307"group-title="📺 Stingray Music",Stingray Flashback 70s
+#EXTINF:-1 tvg-name="Stingray Flashback 70s"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="307"group-title="Stingray Music",Stingray Flashback 70s
 https://jmp2.uk/SamsungTVPlus/CABD1200028QO.m3u8
-#EXTINF:-1 tvg-name="Stingray Everything 80s"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="308"group-title="📺 Stingray Music",Stingray Everything 80s
+#EXTINF:-1 tvg-name="Stingray Everything 80s"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="308"group-title="Stingray Music",Stingray Everything 80s
 https://jmp2.uk/SamsungTVPlus/CABD1200026VA.m3u8
-#EXTINF:-1 tvg-name="Stingray Today's Latin Pop"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="309"group-title="📺 Stingray Music",Stingray Today's Latin Pop
+#EXTINF:-1 tvg-name="Stingray Today's Latin Pop"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png"tvg-chno="309"group-title="Stingray Music",Stingray Today's Latin Pop
 https://jmp2.uk/SamsungTVPlus/CABD1200027JL.m3u8
-#EXTINF:-1 tvg-id="StingrayAmbience.ca" tvg-logo="https://i.imgur.com/1mawJQX.png" group-title="Music",Stingray Ambience (1080p)
+#EXTINF:-1 tvg-id="StingrayAmbience.ca" tvg-logo="https://i.imgur.com/1mawJQX.png" group-title="Stingray Music",Stingray Ambience (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="Music",Stingray Classic Rock
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="Stingray Music",Stingray Classic Rock
 https://jmp2.uk/SamsungTVPlus/USBD35000180U.m3u8
-#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Music",Stingray Classica
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Stingray Music",Stingray Classica
 https://jmp2.uk/SamsungTVPlus/USBD350002623.m3u8
-#EXTINF:-1 tvg-id="StingrayCMusic.ca" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="Music",Stingray CMusic
+#EXTINF:-1 tvg-id="StingrayCMusic.ca" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="Stingray Music",Stingray CMusic
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87.m3u8
-#EXTINF:-1 tvg-id="StingrayDJAZZ.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="Music",Stingray DJAZZ
+#EXTINF:-1 tvg-id="StingrayDJAZZ.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="Stingray Music",Stingray DJAZZ
 https://jmp2.uk/SamsungTVPlus/USBD3500025GS.m3u8
-#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Music",Stingray Easy Listening
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Stingray Music",Stingray Easy Listening
 https://jmp2.uk/SamsungTVPlus/USBD3500011J3.m3u8
-#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="Music",Stingray Flashback 70s
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="Stingray Music",Stingray Flashback 70s
 https://jmp2.uk/SamsungTVPlus/USBD3500008IJ.m3u8
-#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Music",Stingray Greatest Hits
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Stingray Music",Stingray Greatest Hits
 https://jmp2.uk/SamsungTVPlus/USBD3500022DN.m3u8
-#EXTINF:-1 tvg-id="StingrayHipHop.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Music",Stingray Hip Hop
+#EXTINF:-1 tvg-id="StingrayHipHop.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Stingray Music",Stingray Hip Hop
 https://jmp2.uk/SamsungTVPlus/USBD3500010MT.m3u8
-#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="Music",Stingray Hit List (1080p)
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="Stingray Music",Stingray Hit List (1080p)
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHolidayHits.ca" tvg-logo="https://i.imgur.com/4xVVKH8.png" group-title="Music",Stingray Holiday Hits (1080p)
+#EXTINF:-1 tvg-id="StingrayHolidayHits.ca" tvg-logo="https://i.imgur.com/4xVVKH8.png" group-title="Stingray Music",Stingray Holiday Hits (1080p)
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="Music",Stingray Hot Country
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="Stingray Music",Stingray Hot Country
 https://jmp2.uk/SamsungTVPlus/USBD3300021KV.m3u8
-#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="Music",Stingray Karaoke (1080p)
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="Stingray Music",Stingray Karaoke (1080p)
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Music",Stingray Naturescape
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Stingray Music",Stingray Naturescape
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5.m3u8
-#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="Music",Stingray Nothin' But 90s
+#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="Stingray Music",Stingray Nothin' But 90s
 https://jmp2.uk/SamsungTVPlus/USBD35000149S.m3u8
-#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="Music",Stingray Pop Adult (1080p)
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="Stingray Music",Stingray Pop Adult (1080p)
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca" tvg-logo="https://i.imgur.com/duwc8E8.png" group-title="Music",Stingray Remember the 80s
+#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca" tvg-logo="https://i.imgur.com/duwc8E8.png" group-title="Stingray Music",Stingray Remember the 80s
 https://jmp2.uk/SamsungTVPlus/USBD3300022QK.m3u8
-#EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Music",Stingray Remember the 80s (1080p)
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Stingray Music",Stingray Remember the 80s (1080p)
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayRockAlternative.ca" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="Music",Stingray Rock Alternative (1080p)
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="Stingray Music",Stingray Rock Alternative (1080p)
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Music",Stingray Romance Latino
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Stingray Music",Stingray Romance Latino
 https://jmp2.uk/SamsungTVPlus/USBD3500017CE.m3u8
-#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="Music",Stingray Smooth Jazz
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="Stingray Music",Stingray Smooth Jazz
 https://jmp2.uk/SamsungTVPlus/USBD35000128A.m3u8
-#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="Music",Stingray Soul Storm
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="Stingray Music",Stingray Soul Storm
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801.m3u8
-#EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="Music",Stingray The Spa (1080p)
+#EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="Stingray Music",Stingray The Spa (1080p)
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="Music",Stingray Today's K-Pop
+#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="Stingray Music",Stingray Today's K-Pop
 https://jmp2.uk/SamsungTVPlus/USBD3500016NH.m3u8
-#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Music",Stingray Today's Latin Pop
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Stingray Music",Stingray Today's Latin Pop
 https://jmp2.uk/SamsungTVPlus/USBD3500009Y3.m3u8
-#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Music",Stingray Urban Beat (1080p)
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Stingray Music",Stingray Urban Beat (1080p)
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-
-
-
-#EXTINF:-1 tvg-name="Rammstein 24/7 Radio Bob"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s310281/images/logod.png?t=1"tvg-chno="400"group-title="📻 Music Bands",Rammstein 24/7 Radio Bob
-https://radio21.streamabc.net/radio21-rammstein-mp3-256-6531580
-#EXTINF:-1 tvg-name="Metallica 24/7 Radio Bob"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://ca.radio.net/images/broadcasts/7e/92/120258/2/c300.png"tvg-chno="401"group-title="📻 Music Bands",Metallica 24/7 Radio Bob
-https://regiocast.streamabc.net/regc-radiobobmetallica3164584-mp3-192-3532789
-#EXTINF:-1 tvg-name="Metallica 24/7 Exclusive Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://spng.pinpng.com/pngs/s/34-349076_metallica-logo-png-metallica-png-transparent-png.png"tvg-chno="402"group-title="📻 Music Bands",Metallica 24/7 Exclusive Radio
-https://streaming.exclusive.radio/er-app/metallica/icecast.audio
-#EXTINF:-1 tvg-name="AC/DC 24/7 Radio Bob"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/s256712/images/logod.jpg?t=1"tvg-chno="403"group-title="📻 Music Bands",AC/DC 24/7 Radio Bob
-https://regiocast.streamabc.net/regc-radiobobacdc4694296-mp3-192-2891760
 #EXTINF:-1 tvg-name="Queen 24/7 Radio Bob"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.fr/images/broadcasts/fe/a6/40670/3/c300.png"tvg-chno="404"group-title="📻 Music Bands",Queen 24/7 Radio Bob
 https://regiocast.streamabc.net/regc-radiobobqueen9008899-mp3-192-1544549
 #EXTINF:-1 tvg-name="Queen 24/7 Exclusive Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.fr/images/broadcasts/c6/37/180248/1/c300.png"tvg-chno="405"group-title="📻 Music Bands",Queen 24/7 Exclusive Radio
@@ -321,304 +310,3 @@ https://jm8n.com/proxy/roberelvis/stream
 http://89.249.7.68/alwayselvisradio
 #EXTINF:-1 tvg-name="Beatlles 24/7 181.fm"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://pluspng.com/img-png/the-beatles-png-the-beatles-by-andreza0406-the-beatles-by-andreza0406-900.png"tvg-chno="408"group-title="📻 Music Bands",Beatlles 24/7 181.fm
 http://listen.181fm.com/181-beatles_128k.mp3
-#EXTINF:-1 tvg-name="Motley Crue 24/7 Exclusive Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://clipartcraft.com/images/motley-crue-logo-crew-1.png"tvg-chno="409"group-title="📻 Music Bands",Motley Crue 24/7 Exclusive Radio
-https://streaming.exclusive.radio/er-app/motleycrue/icecast.audio
-#EXTINF:-1 tvg-name="Aerosmith 24/7 Exclusive Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://clipart-library.com/new_gallery/58-585281_aerosmith-permanent-vacation-t-shirt.png"tvg-chno="410"group-title="📻 Music Bands",Aerosmith 24/7 Exclusive Radio
-https://streaming.exclusive.radio/er-app/aerosmithhits/icecast.audio
-#EXTINF:-1 tvg-name="Bon Jovi 24/7 Exclusive Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://i.pinimg.com/originals/7d/ff/a5/7dffa57f18df4771f03b2902959aaf28.png"tvg-chno="411"group-title="📻 Music Bands",Bon Jovi 24/7 Exclusive Radio
-https://streaming.exclusive.radio/er-app/bonjovihits/icecast.audio
-#EXTINF:-1 tvg-name="Gun's and Roses 24/7 Exclusive Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://musikiathek.de/wp-content/uploads/2018/05/guns-n-roses.png"tvg-chno="412"group-title="📻 Music Bands",Gun's and Roses 24/7 Exclusive Radio
-https://streaming.exclusive.radio/er-app/gunsnroses/icecast.audio
-#EXTINF:-1 tvg-name="Def Leppard 24/7 Exclusive Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://logodix.com/logo/29953.png"tvg-chno="413"group-title="📻 Music Bands",Def Leppard 24/7 Exclusive Radio
-https://streaming.exclusive.radio/er-app/defleppard/icecast.audio
-#EXTINF:-1 tvg-name="Led Zeppelin 24/7 Exclusive Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://lasopadigi870.weebly.com/uploads/1/2/5/8/125825120/629611460.png"tvg-chno="414"group-title="📻 Music Bands",Led Zeppelin 24/7 Exclusive Radio
-https://streaming.exclusive.radio/er-app/ledzeppelinhits/icecast.audio
-#EXTINF:-1 tvg-name="The Heart (Love Songs)"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="500"group-title="📻 181FM",The Heart (Love Songs)
-http://listen.livestreamingservice.com/181-heart_128k.mp3
-#EXTINF:-1 tvg-name="Power 181 (Top 40)"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="501"group-title="📻 181FM",Power 181 (Top 40)
-http://listen.livestreamingservice.com/181-power_128k.mp3
-#EXTINF:-1 tvg-name="Power 181 [E]"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="502"group-title="📻 181FM",Power 181 [E]
-http://listen.livestreamingservice.com/181-powerexplicit_128k.mp3
-#EXTINF:-1 tvg-name="UK top 40"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="503"group-title="📻 181FM",UK top 40
-http://listen.livestreamingservice.com/181-uktop40_128k.mp3
-#EXTINF:-1 tvg-name="Awesome 80's"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="504"group-title="📻 181FM",Awesome 80's
-http://listen.livestreamingservice.com/181-awesome80s_128k.mp3
-#EXTINF:-1 tvg-name="Lite 80's"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="505"group-title="📻 181FM",Lite 80's
-http://listen.livestreamingservice.com/181-lite80s_128k.mp3
-#EXTINF:-1 tvg-name="80's RnB"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="506"group-title="📻 181FM",80's RnB
-http://listen.livestreamingservice.com/181-80srnb_128k.mp3
-#EXTINF:-1 tvg-name="80's Hairband"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="507"group-title="📻 181FM",80's Hairband
-http://listen.livestreamingservice.com/181-hairband_128k.mp3
-#EXTINF:-1 tvg-name="80's Country"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="508"group-title="📻 181FM",80's Country
-http://listen.livestreamingservice.com/181-80scountry_128k.mp3
-#EXTINF:-1 tvg-name="The Buzz (Alt. Rock)"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="509"group-title="📻 181FM",The Buzz (Alt. Rock)
-http://listen.livestreamingservice.com/181-buzz_128k.mp3
-#EXTINF:-1 tvg-name="Classic Buzz (Alt)"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="510"group-title="📻 181FM",Classic Buzz (Alt)
-http://listen.livestreamingservice.com/181-classicbuzz_128k.mp3
-#EXTINF:-1 tvg-name="Star 90's"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="511"group-title="📻 181FM",Star 90's
-http://listen.livestreamingservice.com/181-star90s_128k.mp3
-#EXTINF:-1 tvg-name="90's Country"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="512"group-title="📻 181FM",90's Country
-http://listen.livestreamingservice.com/181-90scountry_128k.mp3
-#EXTINF:-1 tvg-name="Lite 90's"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="513"group-title="📻 181FM",Lite 90's
-http://listen.livestreamingservice.com/181-lite90s_128k.mp3
-#EXTINF:-1 tvg-name="90's Alternative"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="514"group-title="📻 181FM",90's Alternative
-http://listen.livestreamingservice.com/181-90salt_128k.mp3
-#EXTINF:-1 tvg-name="90's Dance"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="515"group-title="📻 181FM",90's Dance
-http://listen.livestreamingservice.com/181-90sdance_128k.mp3
-#EXTINF:-1 tvg-name="90's RnB"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="516"group-title="📻 181FM",90's RnB
-http://listen.livestreamingservice.com/181-90srnb_128k.mp3
-#EXTINF:-1 tvg-name="The Eagle (Classic)"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="517"group-title="📻 181FM",The Eagle (Classic)
-http://listen.livestreamingservice.com/181-eagle_128k.mp3
-#EXTINF:-1 tvg-name="Rock 181"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="518"group-title="📻 181FM",Rock 181
-http://listen.livestreamingservice.com/181-rock_128k.mp3
-#EXTINF:-1 tvg-name="The Rock! (Hard Rock)"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="519"group-title="📻 181FM",The Rock! (Hard Rock)
-http://listen.livestreamingservice.com/181-hardrock_128k.mp3
-#EXTINF:-1 tvg-name="Rock 40 (Rock & Roll)"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="520"group-title="📻 181FM",Rock 40 (Rock & Roll)
-http://listen.livestreamingservice.com/181-rock40_128k.mp3
-#EXTINF:-1 tvg-name="Kickin' Country"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="521"group-title="📻 181FM",Kickin' Country
-http://listen.livestreamingservice.com/181-kickincountry_128k.mp3
-#EXTINF:-1 tvg-name="Real Country"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="522"group-title="📻 181FM",Real Country
-http://listen.livestreamingservice.com/181-realcountry_128k.mp3
-#EXTINF:-1 tvg-name="The Beat (HipHop/R&B)"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="523"group-title="📻 181FM",The Beat (HipHop/R&B)
-http://listen.livestreamingservice.com/181-beat_128k.mp3
-#EXTINF:-1 tvg-name="Energy 98"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="524"group-title="📻 181FM",Energy 98
-http://listen.livestreamingservice.com/181-energy98_128k.mp3
-#EXTINF:-1 tvg-name="Classic Energy"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="525"group-title="📻 181FM",Classic Energy
-http://listen.livestreamingservice.com/181-classicenergy_128k.mp3
-#EXTINF:-1 tvg-name="Chilled Out"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="526"group-title="📻 181FM",Chilled Out
-http://listen.livestreamingservice.com/181-chilled_128k.mp3
-#EXTINF:-1 tvg-name="The Breeze"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="527"group-title="📻 181FM",The Breeze
-http://listen.livestreamingservice.com/181-breeze_128k.mp3
-#EXTINF:-1 tvg-name="True Blues"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="528"group-title="📻 181FM",True Blues
-http://listen.livestreamingservice.com/181-blues_128k.mp3
-#EXTINF:-1 tvg-name="Beatles"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="529"group-title="📻 181FM",Beatles
-http://listen.livestreamingservice.com/181-beatles_128k.mp3
-#EXTINF:-1 tvg-name="Good Time Oldies"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="530"group-title="📻 181FM",Good Time Oldies
-http://listen.livestreamingservice.com/181-goodtime_128k.mp3
-#EXTINF:-1 tvg-name="Oldies Classic Hits 181"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="531"group-title="📻 181FM",Oldies Classic Hits 181
-http://listen.livestreamingservice.com/181-greatoldies_128k.mp3
-#EXTINF:-1 tvg-name="Classical Music"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="532"group-title="📻 181FM",Classical Music
-http://listen.livestreamingservice.com/181-classical_128k.mp3
-#EXTINF:-1 tvg-name="Christmas Classics"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.net/images/broadcasts/07/d6/105208/1/c300.png"tvg-chno="533"group-title="📻 181FM",Christmas Classics
-http://listen.livestreamingservice.com/181-xtraditional_128k.mp3
-#EXTINF:-1 tvg-name="iHeart 50s Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="600"group-title="📻 iHeart Radio",iHeart 50s Radio
-https://stream.revma.ihrhls.com/zc6882
-#EXTINF:-1 tvg-name="iHeart 60s Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="601"group-title="📻 iHeart Radio",iHeart 60s Radio
-http://stream.revma.ihrhls.com/zc6873/hls.m3u8
-#EXTINF:-1 tvg-name="iHeart 70s Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="602"group-title="📻 iHeart Radio",iHeart 70s Radio
-http://stream.revma.ihrhls.com/zc6843/hls.m3u8
-#EXTINF:-1 tvg-name="iHeart 80s Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="603"group-title="📻 iHeart Radio",iHeart 80s Radio
-http://stream.revma.ihrhls.com/zc5060/hls.m3u8
-#EXTINF:-1 tvg-name="iHeart 90s Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="604"group-title="📻 iHeart Radio",iHeart 90s Radio
-http://stream.revma.ihrhls.com/zc6834/hls.m3u8
-#EXTINF:-1 tvg-name="iHeart 2000s Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="605"group-title="📻 iHeart Radio",iHeart 2000s Radio
-http://stream.revma.ihrhls.com/zc6850/hls.m3u8
-#EXTINF:-1 tvg-name="iHeart 2010s Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="606"group-title="📻 iHeart Radio",iHeart 2010s Radio
-http://stream.revma.ihrhls.com/zc8478/hls.m3u8
-#EXTINF:-1 tvg-name="Real Oldies 60s & 70s Hits"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="607"group-title="📻 iHeart Radio",Real Oldies 60s & 70s Hits
-http://stream.revma.ihrhls.com/zc4717/hls.m3u8
-#EXTINF:-1 tvg-name="Big Classic Hits 70s-90s"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="608"group-title="📻 iHeart Radio",Big Classic Hits 70s-90s
-http://stream.revma.ihrhls.com/zc4455/hls.m3u8
-#EXTINF:-1 tvg-name="Lost 80s Hits"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="609"group-title="📻 iHeart Radio",Lost 80s Hits
-https://stream.revma.ihrhls.com/zc7934/hls.m3u8
-#EXTINF:-1 tvg-name="One Hit Wonder Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="610"group-title="📻 iHeart Radio",One Hit Wonder Radio
-http://stream.revma.ihrhls.com/zc6669/hls.m3u8
-#EXTINF:-1 tvg-name="The Classic Rock Channel"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="611"group-title="📻 iHeart Radio",The Classic Rock Channel
-http://stream.revma.ihrhls.com/zc4426/hls.m3u8
-#EXTINF:-1 tvg-name="Non Stop Rock"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="612"group-title="📻 iHeart Radio",Non Stop Rock
-http://stream.revma.ihrhls.com/zc4443/hls.m3u8
-#EXTINF:-1 tvg-name="Rock Nation's Top 20"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="613"group-title="📻 iHeart Radio",Rock Nation's Top 20
-http://stream.revma.ihrhls.com/zc4932/hls.m3u8
-#EXTINF:-1 tvg-name="NBC News Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="614"group-title="📻 iHeart Radio",NBC News Radio
-https://stream.revma.ihrhls.com/zc6043/hls.m3u8
-#EXTINF:-1 tvg-name="Kiss Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="615"group-title="📻 iHeart Radio",Kiss Radio
-http://stream.revma.ihrhls.com/zc7362/hls.m3u8
-#EXTINF:-1 tvg-name="Lite Rock"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="616"group-title="📻 iHeart Radio",Lite Rock
-http://stream.revma.ihrhls.com/zc6830/hls.m3u8
-#EXTINF:-1 tvg-name="Popcorn Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="617"group-title="📻 iHeart Radio",Popcorn Radio
-http://stream.revma.ihrhls.com/zc7445/hls.m3u8
-#EXTINF:-1 tvg-name="Real Fun Beach"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="618"group-title="📻 iHeart Radio",Real Fun Beach
-http://stream.revma.ihrhls.com/zc6221/hls.m3u8
-#EXTINF:-1 tvg-name="Rock Workout"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="619"group-title="📻 iHeart Radio",Rock Workout
-http://stream.revma.ihrhls.com/zc7800/hls.m3u8
-#EXTINF:-1 tvg-name="Slippery When Wet"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="620"group-title="📻 iHeart Radio",Slippery When Wet
-http://stream.revma.ihrhls.com/zc4858/hls.m3u8
-#EXTINF:-1 tvg-name="iHeartRadio Countdown"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="621"group-title="📻 iHeart Radio",iHeartRadio Countdown
-http://stream.revma.ihrhls.com/zc6455/hls.m3u8
-#EXTINF:-1 tvg-name="Gran Torino"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="622"group-title="📻 iHeart Radio",Gran Torino
-http://stream.revma.ihrhls.com/zc6803/hls.m3u8
-#EXTINF:-1 tvg-name="Gen X Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="623"group-title="📻 iHeart Radio",Gen X Radio
-http://stream.revma.ihrhls.com/zc5322/hls.m3u8
-#EXTINF:-1 tvg-name="Full Metal Jackie"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="624"group-title="📻 iHeart Radio",Full Metal Jackie
-http://stream.revma.ihrhls.com/zc6225/hls.m3u8
-#EXTINF:-1 tvg-name="Hit Nation"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="625"group-title="📻 iHeart Radio",Hit Nation
-http://stream.revma.ihrhls.com/zc4422/hls.m3u8
-#EXTINF:-1 tvg-name="Hit Nation Top 20"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="626"group-title="📻 iHeart Radio",Hit Nation Top 20
-http://stream.revma.ihrhls.com/zc4878/hls.m3u8
-#EXTINF:-1 tvg-name="Hit Nation Junior"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="627"group-title="📻 iHeart Radio",Hit Nation Junior
-https://stream.revma.ihrhls.com/zc6395/hls.m3u8
-#EXTINF:-1 tvg-name="Radio Disney (Geo-USA)"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="628"group-title="📻 iHeart Radio",Radio Disney (Geo-USA)
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIODISNEY_IHEART.m3u8
-#EXTINF:-1 tvg-name="Family Top 40 Countdown"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="629"group-title="📻 iHeart Radio",Family Top 40 Countdown
-https://stream.revma.ihrhls.com/zc7013/hls.m3u8
-#EXTINF:-1 tvg-name="Kids Hits"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="630"group-title="📻 iHeart Radio",Kids Hits
-https://stream.revma.ihrhls.com/zc7223/hls.m3u8
-#EXTINF:-1 tvg-name="Build-A-Bear Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="631"group-title="📻 iHeart Radio",Build-A-Bear Radio
-https://stream.revma.ihrhls.com/zc8430/hls.m3u8
-#EXTINF:-1 tvg-name="Kids Club Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="632"group-title="📻 iHeart Radio",Kids Club Radio
-https://stream.revma.ihrhls.com/zc6551/hls.m3u8
-#EXTINF:-1 tvg-name="Country Family"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="633"group-title="📻 iHeart Radio",Country Family
-https://stream.revma.ihrhls.com/zc7014/hls.m3u8
-#EXTINF:-1 tvg-name="Disney Country (Geo-USA)"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="634"group-title="📻 iHeart Radio",Disney Country (Geo-USA)
-https://playerservices.streamtheworld.com/api/livestream-redirect/RDCOUNTRYAAC64.m3u8
-#EXTINF:-1 tvg-name="Lullabies Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="635"group-title="📻 iHeart Radio",Lullabies Radio
-https://stream.revma.ihrhls.com/zc7249/hls.m3u8
-#EXTINF:-1 tvg-name="Read2Know Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="636"group-title="📻 iHeart Radio",Read2Know Radio
-https://stream.revma.ihrhls.com/zc7101/hls.m3u8
-#EXTINF:-1 tvg-name="Maginate Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg"tvg-chno="637"group-title="📻 iHeart Radio",Maginate Radio
-https://stream.revma.ihrhls.com/zc8523/hls.m3u8
-
-#EXTINF:-1 tvg-name="Dash Radio | 80's Hair Band Rock"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheStrip.png"tvg-chno="700"group-title="📻 Dash Radio",Dash Radio | 80's Hair Band Rock
-https://ice55.securenetsystems.net/DASH24
-#EXTINF:-1 tvg-name="Dash Radio | Monsters of Rock"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/MONSTERSOFROCK/mor_color_324.png"tvg-chno="701"group-title="📻 Dash Radio",Dash Radio | Monsters of Rock
-https://ice55.securenetsystems.net/DASH14
-#EXTINF:-1 tvg-name="Dash Radio | Grunge 90's Rock"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/164/logos/491736a0-b88d-45ee-852c-5325eb9d6174.png"tvg-chno="702"group-title="📻 Dash Radio",Dash Radio | Grunge 90's Rock
-https://ice55.securenetsystems.net/DASH61
-#EXTINF:-1 tvg-name="Dash Radio | Church of Rock & Roll"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/41/logos/2ed70706-c9b5-451d-8852-5dbcebe42ca9.png"tvg-chno="703"group-title="📻 Dash Radio",Dash Radio | Church of Rock & Roll
-https://ice55.securenetsystems.net/DASH21
-#EXTINF:-1 tvg-name="Dash Radio | Dash Indie"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/DashIndie.png"tvg-chno="704"group-title="📻 Dash Radio",Dash Radio | Dash Indie
-https://ice55.securenetsystems.net/DASH32
-#EXTINF:-1 tvg-name="Dash Radio | 10Dash20"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/234/logos/fad9ff01-5200-4df6-a3a1-ed17922a5586.png"tvg-chno="705"group-title="📻 Dash Radio",Dash Radio | 10Dash20
-https://ice55.securenetsystems.net/DASH52
-#EXTINF:-1 tvg-name="Dash Radio | Y2K"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Y2K.png"tvg-chno="706"group-title="📻 Dash Radio",Dash Radio | Y2K
-https://ice55.securenetsystems.net/DASH19
-#EXTINF:-1 tvg-name="Dash Radio | 90's"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/90s.png"tvg-chno="707"group-title="📻 Dash Radio",Dash Radio | 90's
-https://ice55.securenetsystems.net/DASH1
-#EXTINF:-1 tvg-name="Dash Radio | 80's"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/31/logos/b096f16a-dd7e-48fa-973c-af79143fc008.png"tvg-chno="708"group-title="📻 Dash Radio",Dash Radio | 80's
-https://ice55.securenetsystems.net/DASH7
-#EXTINF:-1 tvg-name="Dash Radio | 70's"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/70s.png"tvg-chno="709"group-title="📻 Dash Radio",Dash Radio | 70's
-https://ice55.securenetsystems.net/DASH26
-#EXTINF:-1 tvg-name="Dash Radio | 60's"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/2/logos/9a78de9b-4366-45c8-b3e7-911ef7251352.png"tvg-chno="710"group-title="📻 Dash Radio",Dash Radio | 60's
-https://ice55.securenetsystems.net/DASH34
-#EXTINF:-1 tvg-name="Dash Radio | Ratpack"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Ratpack.png"tvg-chno="711"group-title="📻 Dash Radio",Dash Radio | Ratpack
-https://ice55.securenetsystems.net/DASH5
-#EXTINF:-1 tvg-name="Dash Radio | Disco Fever"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/DiscoFever.png"tvg-chno="712"group-title="📻 Dash Radio",Dash Radio | Disco Fever
-https://ice55.securenetsystems.net/DASH20
-#EXTINF:-1 tvg-name="Dash Radio | Swing"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/SWING/Swing-Color.png"tvg-chno="713"group-title="📻 Dash Radio",Dash Radio | Swing
-https://ice55.securenetsystems.net/DASH80
-#EXTINF:-1 tvg-name="Dash Radio | Fun For Life Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/178/logos/bfa8b3d6-1d26-493d-a24a-8bbe17ee75aa.png"tvg-chno="714"group-title="📻 Dash Radio",Dash Radio | Fun For Life Radio
-https://ice55.securenetsystems.net/DASH49
-#EXTINF:-1 tvg-name="Dash Radio | Dash R&B X"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/50/logos/80156832-ba8b-4c3a-9e24-c5590be67b37.png"tvg-chno="715"group-title="📻 Dash Radio",Dash Radio | Dash R&B X
-https://ice55.securenetsystems.net/DASH47
-#EXTINF:-1 tvg-name="Dash Radio | Dash Pop X"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXPOP/dash_x_pop_color_324.png"tvg-chno="716"group-title="📻 Dash Radio",Dash Radio | Dash Pop X
-https://ice55.securenetsystems.net/DASH17
-#EXTINF:-1 tvg-name="Dash Radio | Dash Hits X"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/214/logos/c701b24d-c9f9-41da-8829-01baa5cea68a.png"tvg-chno="717"group-title="📻 Dash Radio",Dash Radio | Dash Hits X
-https://ice55.securenetsystems.net/DASH58
-#EXTINF:-1 tvg-name="Dash Radio | Rock Dash X"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHX/dash_x_color_324.png"tvg-chno="718"group-title="📻 Dash Radio",Dash Radio | Rock Dash X
-https://ice55.securenetsystems.net/DASH38
-#EXTINF:-1 tvg-name="Dash Radio | Fusion"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/FUSION/fusion_324.png"tvg-chno="719"group-title="📻 Dash Radio",Dash Radio | Fusion
-https://ice55.securenetsystems.net/DASH88
-#EXTINF:-1 tvg-name="Dash Radio | Pop Family"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/199/logos/ef07f038-a829-4db6-a92c-778973e3f06d.png"tvg-chno="720"group-title="📻 Dash Radio",Dash Radio | Pop Family
-https://ice55.securenetsystems.net/DASH94
-#EXTINF:-1 tvg-name="Dash Radio | Discover"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Discover.png"tvg-chno="721"group-title="📻 Dash Radio",Dash Radio | Discover
-https://ice55.securenetsystems.net/DASH46
-#EXTINF:-1 tvg-name="Dash Radio | Love Song"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Love.png"tvg-chno="722"group-title="📻 Dash Radio",Dash Radio | Love Song
-https://ice55.securenetsystems.net/DASH66
-#EXTINF:-1 tvg-name="Happy Fun Time Rainbow Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/HAPPYFUNTIMERAINBOWRADIO/HFTRR_color_324.png"tvg-chno="723"group-title="📻 Dash Radio",Happy Fun Time Rainbow Radio
-https://ice55.securenetsystems.net/DASH41
-#EXTINF:-1 tvg-name="Dash Radio | SoundCloud Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/235/logos/340a73c9-2a3b-4b7d-a63c-f2805d81d928.png"tvg-chno="724"group-title="📻 Dash Radio",Dash Radio | SoundCloud Radio
-https://ice55.securenetsystems.net/DASH68
-#EXTINF:-1 tvg-name="Dash Radio | Dash Hip-Hop X"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXHIPHOP/dash_x_hiphop_color_324.png"tvg-chno="725"group-title="📻 Dash Radio",Dash Radio | Dash Hip-Hop X
-https://ice55.securenetsystems.net/DASH90
-#EXTINF:-1 tvg-name="Dash Radio | Dash The City"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/49/logos/f2bfb506-9f0e-4e0a-9a6c-65cf83743777.png"tvg-chno="726"group-title="📻 Dash Radio",Dash Radio | Dash The City
-https://ice55.securenetsystems.net/DASH2
-#EXTINF:-1 tvg-name="Dash Radio | Doggystyle"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/DOGGYSTYLE/doggystyle_324.png"tvg-chno="727"group-title="📻 Dash Radio",Dash Radio | Doggystyle
-https://ice55.securenetsystems.net/DASH78
-#EXTINF:-1 tvg-name="Dash Radio | Southside"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/SOUTHSIDE/southside_color_324.png"tvg-chno="728"group-title="📻 Dash Radio",Dash Radio | Southside
-https://ice55.securenetsystems.net/DASH95
-#EXTINF:-1 tvg-name="Dash Radio | 1580"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/1580.png"tvg-chno="729"group-title="📻 Dash Radio",Dash Radio | 1580
-https://ice55.securenetsystems.net/DASH11
-#EXTINF:-1 tvg-name="Dash Radio | Native Rhymes"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/NativeRhymes.png"tvg-chno="730"group-title="📻 Dash Radio",Dash Radio | Native Rhymes
-https://ice55.securenetsystems.net/DASH18
-#EXTINF:-1 tvg-name="Dash Radio | Independent Grind"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/IndependentGrind.png"tvg-chno="731"group-title="📻 Dash Radio",Dash Radio | Independent Grind
-https://ice55.securenetsystems.net/DASH8
-#EXTINF:-1 tvg-name="Dash Radio | Beat Junkie Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/BeatJunkieRadio.png"tvg-chno="732"group-title="📻 Dash Radio",Dash Radio | Beat Junkie Radio
-https://ice55.securenetsystems.net/DASH51
-#EXTINF:-1 tvg-name="Dash Radio | Delicious Vinyl Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/POPUPS/DVR/vinyl_324_.png"tvg-chno="733"group-title="📻 Dash Radio",Dash Radio | Delicious Vinyl Radio
-https://ice55.securenetsystems.net/DASH71
-#EXTINF:-1 tvg-name="Dash Radio | Get Familiar Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/208/logos/082ea84f-58c6-4089-a311-8c875fc19b98.png"tvg-chno="734"group-title="📻 Dash Radio",Dash Radio | Get Familiar Radio
-https://ice55.securenetsystems.net/DASH74
-#EXTINF:-1 tvg-name="Dash Radio | TASTE"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/233/logos/552d1a04-1338-4754-a365-308437c373fe.png"tvg-chno="735"group-title="📻 Dash Radio",Dash Radio | TASTE
-https://ice55.securenetsystems.net/DASH85
-#EXTINF:-1 tvg-name="Dash Radio | Insomniac Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/218/logos/c0d7b14a-9c44-4818-94ab-4ae8039ab5cb.png"tvg-chno="736"group-title="📻 Dash Radio",Dash Radio | Insomniac Radio
-https://ice55.securenetsystems.net/DASH65
-#EXTINF:-1 tvg-name="Dash Radio | Dash Dance X"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHDANCE/dash_x_dance_color_324.png"tvg-chno="737"group-title="📻 Dash Radio",Dash Radio | Dash Dance X
-https://ice55.securenetsystems.net/DASH81
-#EXTINF:-1 tvg-name="Dash Radio | Dash Bot X"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/138/logos/fb9eaebf-1de6-4cef-99ae-b183e41fe4af.png"tvg-chno="738"group-title="📻 Dash Radio",Dash Radio | Dash Bot X
-https://ice55.securenetsystems.net/DASH45
-#EXTINF:-1 tvg-name="Dash Radio | Electro City"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Electrocity.png"tvg-chno="739"group-title="📻 Dash Radio",Dash Radio | Electro City
-https://ice55.securenetsystems.net/DASH9
-#EXTINF:-1 tvg-name="Dash Radio | Overdrive"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/180/logos/8ae49444-f5b2-49a9-8fce-07d985d61fe3.png"tvg-chno="740"group-title="📻 Dash Radio",Dash Radio | Overdrive
-https://ice55.securenetsystems.net/DASH73
-#EXTINF:-1 tvg-name="Dash Radio | Waves"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/104/logos/ebbd8a08-e215-4824-a5cd-d0fcd28aa3c5.png"tvg-chno="741"group-title="📻 Dash Radio",Dash Radio | Waves
-https://ice55.securenetsystems.net/DASH55
-#EXTINF:-1 tvg-name="Dash Radio | Monstercat"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/MonsterCat.png"tvg-chno="742"group-title="📻 Dash Radio",Dash Radio | Monstercat
-https://ice55.securenetsystems.net/DASH63
-#EXTINF:-1 tvg-name="Dash Radio | Tastemakers"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/9/logos/a72898bb-bd72-4075-b98c-f53849c34ceb.png"tvg-chno="743"group-title="📻 Dash Radio",Dash Radio | Tastemakers
-https://ice55.securenetsystems.net/DASH72
-#EXTINF:-1 tvg-name="Dash Radio | Rinse"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Rinse.png"tvg-chno="744"group-title="📻 Dash Radio",Dash Radio | Rinse
-https://ice55.securenetsystems.net/DASH70
-#EXTINF:-1 tvg-name="Dash Radio | Dash Latin X"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXLATIN/dash_x_latin_color_324.png"tvg-chno="745"group-title="📻 Dash Radio",Dash Radio | Dash Latin X
-https://ice55.securenetsystems.net/DASH48
-#EXTINF:-1 tvg-name="Dash Radio | La Campesina"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/127/logos/45abdfd9-6fe6-4dfe-9651-70a23c44dd1f.png"tvg-chno="746"group-title="📻 Dash Radio",Dash Radio | La Campesina
-https://ice55.securenetsystems.net/DASH43
-#EXTINF:-1 tvg-name="Dash Radio | Imperio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/IMPERIO/imperio_324.png"tvg-chno="747"group-title="📻 Dash Radio",Dash Radio | Imperio
-https://ice55.securenetsystems.net/DASH27
-#EXTINF:-1 tvg-name="Dash Radio | La Isla"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/LaIsla.png"tvg-chno="748"group-title="📻 Dash Radio",Dash Radio | La Isla
-https://ice55.securenetsystems.net/DASH10
-#EXTINF:-1 tvg-name="Dash Radio | Dash Alt X"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXALT/dash_x_alt_color_324.png"tvg-chno="749"group-title="📻 Dash Radio",Dash Radio | Dash Alt X
-https://ice55.securenetsystems.net/DASH12
-#EXTINF:-1 tvg-name="Dash Radio | Alt X Classics"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/206/logos/2d7a5d8c-8a87-4458-95f5-0aab1eec1746.png"tvg-chno="750"group-title="📻 Dash Radio",Dash Radio | Alt X Classics
-https://ice55.securenetsystems.net/DASH83
-#EXTINF:-1 tvg-name="Snoop Dogg's Cadillacc Music"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/107/logos/590aec9f-6927-4ad8-8125-96353e4c3ca9.png"tvg-chno="751"group-title="📻 Dash Radio",Snoop Dogg's Cadillacc Music
-https://ice55.securenetsystems.net/DASH16
-#EXTINF:-1 tvg-name="Dash Radio | Moonlight"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/224/logos/e3723e8b-7696-4f8b-a591-c3eb518e1b86.png"tvg-chno="752"group-title="📻 Dash Radio",Dash Radio | Moonlight
-https://ice55.securenetsystems.net/DASH37
-#EXTINF:-1 tvg-name="Dash Radio | Boomerang"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/53/logos/0c3ecccd-1495-44c8-9fcd-cc7e9e53a7c4.png"tvg-chno="753"group-title="📻 Dash Radio",Dash Radio | Boomerang
-https://ice55.securenetsystems.net/DASH39
-#EXTINF:-1 tvg-name="Dash Radio | Pure Soul"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/PureSoul.png"tvg-chno="754"group-title="📻 Dash Radio",Dash Radio | Pure Soul
-https://ice55.securenetsystems.net/DASH36
-#EXTINF:-1 tvg-name="Dash Radio | Super Freak"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/SUPERFREAK/superfreak_color_324.png"tvg-chno="755"group-title="📻 Dash Radio",Dash Radio | Super Freak
-https://ice55.securenetsystems.net/DASH22
-#EXTINF:-1 tvg-name="Dash Radio | Cool"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cool.png"tvg-chno="756"group-title="📻 Dash Radio",Dash Radio | Cool
-https://ice55.securenetsystems.net/DASH6
-#EXTINF:-1 tvg-name="Dash Radio | The Blue Spot"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/181/logos/a01caaa1-ed34-4591-a04a-eb5787b91fac.png"tvg-chno="757"group-title="📻 Dash Radio",Dash Radio | The Blue Spot
-https://ice55.securenetsystems.net/DASH59
-#EXTINF:-1 tvg-name="Dash Radio | Concerto"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Concerto.png"tvg-chno="758"group-title="📻 Dash Radio",Dash Radio | Concerto
-https://ice55.securenetsystems.net/DASH33
-#EXTINF:-1 tvg-name="Dash Radio | Cinescore"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cinescore.png"tvg-chno="759"group-title="📻 Dash Radio",Dash Radio | Cinescore
-https://ice55.securenetsystems.net/DASH29
-#EXTINF:-1 tvg-name="Broadway Records Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/77/logos/c4fdcf0d-aaad-4fe6-a126-7bcb6f28c118.png"tvg-chno="760"group-title="📻 Dash Radio",Broadway Records Radio
-https://ice55.securenetsystems.net/DASH75
-#EXTINF:-1 tvg-name="Dash Radio | Smooth Jazz Hits"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/229/logos/ec3bfac0-18e4-488b-b2f5-42451fb589e6.png"tvg-chno="761"group-title="📻 Dash Radio",Dash Radio | Smooth Jazz Hits
-https://ice55.securenetsystems.net/DASH44
-#EXTINF:-1 tvg-name="Dash Radio | Dash Country X"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/43/logos/d1b67ff2-ec59-4caf-a2c0-670b9e79f899.png"tvg-chno="762"group-title="📻 Dash Radio",Dash Radio | Dash Country X
-https://ice55.securenetsystems.net/DASH35
-#EXTINF:-1 tvg-name="Dash Radio | The Ranch"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheRanch.png"tvg-chno="763"group-title="📻 Dash Radio",Dash Radio | The Ranch
-https://ice55.securenetsystems.net/DASH13
-#EXTINF:-1 tvg-name="Dash Radio | Dashville"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/232/logos/5031018a-b125-45d7-a5ff-e6efe995fac0.png"tvg-chno="764"group-title="📻 Dash Radio",Dash Radio | Dashville
-https://ice55.securenetsystems.net/DASH82
-#EXTINF:-1 tvg-name="Dash Radio | Identity Asia Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/IDENTITY/asia_color_324.png"tvg-chno="765"group-title="📻 Dash Radio",Dash Radio | Identity Asia Radio
-https://ice55.securenetsystems.net/DASH53
-#EXTINF:-1 tvg-name="Dash Radio | Island City"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/171/logos/69cff7b9-353b-43e6-9458-4862e11d6e81.png"tvg-chno="766"group-title="📻 Dash Radio",Dash Radio | Island City
-https://ice55.securenetsystems.net/DASH40
-#EXTINF:-1 tvg-name="Dash Radio | Rukus Avenue Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/212/logos/b2474560-e61f-4a4e-a6c0-9bd2d3b43bd0.png"tvg-chno="767"group-title="📻 Dash Radio",Dash Radio | Rukus Avenue Radio
-https://ice55.securenetsystems.net/DASH54
-#EXTINF:-1 tvg-name="Dash Radio | YG Presents"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/YG.png"tvg-chno="768"group-title="📻 Dash Radio",Dash Radio | YG Presents
-https://ice55.securenetsystems.net/DASH28
-#EXTINF:-1 tvg-name="Dash Radio | Reggae King"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/ReggaeKing.png"tvg-chno="769"group-title="📻 Dash Radio",Dash Radio | Reggae King
-https://ice55.securenetsystems.net/DASH79
-#EXTINF:-1 tvg-name="Dash Radio | MyxRadio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/223/logos/bdfb58cc-db23-4e80-898a-7ceaa3c55bdc.png"tvg-chno="770"group-title="📻 Dash Radio",Dash Radio | MyxRadio
-https://ice55.securenetsystems.net/DASH62
-#EXTINF:-1 tvg-name="Dash Radio | Afrobeats"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/118/logos/d0918be2-d818-4bd5-b41a-f9ee9a44e7a0.png"tvg-chno="771"group-title="📻 Dash Radio",Dash Radio | Afrobeats
-https://ice55.securenetsystems.net/DASH64
