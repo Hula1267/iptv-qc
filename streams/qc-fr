@@ -1,11 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
-
 #EXTINF:-1 tvg-name="ICI RDI"tvg-id="ICI.Reseau.de.lInformation.HDTV.(ICIRDIHD).ca"tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png"tvg-chno="1"group-title="📺 Canada Français",ICI RDI (1)
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Est"tvg-id="CBLFT.ICI.Radio-Canada.(Toronto).(IRC).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="3"group-title="📺 Canada Français",ICI Télé Est
-https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_3000.m3u8?Canada
-#EXTINF:-1 tvg-name="ICI Télé Ouest"tvg-id="CBUFT.ICI.Radio-Canada.(Vancouver).(IRC).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="5"group-title="📺 Canada Français",ICI Télé Ouest
-https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_3000.m3u8?Canada
 #EXTINF:-1 tvg-name="Canal Savoir"tvg-id="Savoir.média.(SVMD).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png"tvg-chno="7"group-title="📺 Canada Français",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-name="LCN"tvg-id="Le.Canal.Nouvelles.HDTV.(LCND).ca"tvg-logo="https://i.imgur.com/JHOyrgA.png"tvg-chno="9"group-title="📺 Canada Français",LCN
@@ -22,44 +17,14 @@ https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/FNzVlkT.png"tvg-chno="21"group-title="📺 Canada Français",Noovo Cinéma
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Acadie"tvg-id="CBAFT.ICI.Radio-Canada.HDTV.(Moncton).(IRCHD).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="29"group-title="📺 Canada Français",ICI Télé Acadie
-https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Alberta"tvg-id="CBXFT.ICI.Radio-Canada.(Edmonton).(IRC).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="31"group-title="📺 Canada Français",ICI Télé Alberta
-https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé CB-Yukon"tvg-id="CBUFT.ICI.Radio-Canada.(Vancouver).(IRC).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="33"group-title="📺 Canada Français",ICI Télé CB-Yukon
-https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Est-Québec"tvg-id="CJBR.ICI.Radio-Canada.(Rimouski).(IRC).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="35"group-title="📺 Canada Français",ICI Télé Est-Québec
-https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Estrie"tvg-id="CKSH.ICI.Radio.Canada.HDTV.(Sherbrooke).(IRCHD).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="37"group-title="📺 Canada Français",ICI Télé Estrie
-https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Manitoba"tvg-id="CBWFT.ICI.Radio-Canada.(Winnipeg).(IRC).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="39"group-title="📺 Canada Français",ICI Télé Manitoba
-https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Mauricie"tvg-id="CKTM.ICI.Radio-Canada.(Trois-Rivières).(IRC).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="41"group-title="📺 Canada Français",ICI Télé Mauricie
-https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Montréal (1)"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="42"group-title="📺 Canada Français",ICI Télé Montréal (1)
+#EXTINF:-1 tvg-name="ICI Télé Montréal 720p"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="42"group-title="📺 Canada Français",ICI Télé Montréal (1)
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Montréal (2)"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="43"group-title="📺 Canada Français",ICI Télé Montréal (2)
+#EXTINF:-1 tvg-name="ICI Télé Montréal 1080p"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="43"group-title="📺 Canada Français",ICI Télé Montréal (2)
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Ontario"tvg-id="CBLFT.ICI.Radio-Canada.(Toronto).(IRC).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="45"group-title="📺 Canada Français",ICI Télé Ontario
-https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Ottawa-Gatineau"tvg-id="CBOFT.ICI.Radio-Canada.HDTV.(Ottawa).(IRCHD).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="47"group-title="📺 Canada Français",ICI Télé Ottawa-Gatineau
-https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_3000.m3u8
 #EXTINF:-1 tvg-name="ICI Télé Québec"tvg-id="CBVT.ICI.Radio-Canada.HDTV.(Québec).(IRCHD).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="49"group-title="📺 Canada Français",ICI Télé Québec
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Saguenay"tvg-id="CKTV.ICI.Radio-Canada.(Saguenay).(IRC).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="50"group-title="📺 Canada Français",ICI Télé Saguenay
-https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Saskatchewan"tvg-id="CBKFT.ICI.Radio-Canada.(Regina).(IRC).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="51"group-title="📺 Canada Français",ICI Télé Saskatchewan
-https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_3000.m3u8
-#EXTINF:-1 tvg-name="RogersTV Moncton Français"tvg-id="Local.Programming.(Generic).(CATV-90).ca"tvg-logo="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.18169-9/993551_1133062010058978_7384037937518348103_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=maduZfN87XAAX_ze1yy&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAjqpuPM5wZVwiTJeXHuG234ysegrXKSEzxrAbwquZ1Ag&oe=6454FEE5"tvg-chno="54"group-title="📺 Canada Français",RogersTV Moncton Français
-https://livedrm.akamaized.net/hls/live/1021686/rtv/m43_card4/chunklist.m3u8
-#EXTINF:-1 tvg-name="RogersTV Edmundston Français"tvg-id="Local.Programming.(Generic).(CATV-90).ca"tvg-logo="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.18169-9/993551_1133062010058978_7384037937518348103_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=maduZfN87XAAX_ze1yy&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAjqpuPM5wZVwiTJeXHuG234ysegrXKSEzxrAbwquZ1Ag&oe=6454FEE5"tvg-chno="55"group-title="📺 Canada Français",RogersTV Edmundston Français
-https://livedrm.akamaized.net/hls/live/1021686/rtv/m43_card6/chunklist.m3u8
-#EXTINF:-1 tvg-name="RogersTV Ottawa Français"tvg-id="Local.Programming.(Generic).(CATV-90).ca"tvg-logo="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.18169-9/993551_1133062010058978_7384037937518348103_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=maduZfN87XAAX_ze1yy&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAjqpuPM5wZVwiTJeXHuG234ysegrXKSEzxrAbwquZ1Ag&oe=6454FEE5"tvg-chno="56"group-title="📺 Canada Français",RogersTV Ottawa Français
-https://livedrm.akamaized.net/hls/live/1021686/rtv/m31_card4/chunklist.m3u8
 #EXTINF:-1 tvg-name="Assemblée Nationale du QC"tvg-id="Assemblée.Nationale.(ASSNA).ca"tvg-logo="http://assets.grenier.qc.ca/cdn-cgi/image/q=90,fit=pad,w=200,h=200/uploads/images/logo-Assnat-complet-Couleur-180593.png"tvg-chno="57"group-title="📺 Canada Français",Assemblée Nationale du QC
 https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
-#EXTINF:-1 tvg-name="Ontario OLA Network | FR"tvg-id="Local.Programming.(Generic).(CATV-90).ca"tvg-logo="https://od.lk/s/MF8yMjQyNTQ4Njhf/OntParl_450x450.png"tvg-chno="58"group-title="📺 Canada Français",Ontario OLA Network | FR
-http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 #EXTINF:-1 tvg-name="CPAC FR"tvg-id="CPAC.French.HD.(CPACFH).ca"tvg-logo="https://i.imgur.com/5ym6eJS.png"tvg-chno="59"group-title="📺 Canada Français",CPAC FR
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-name="Radio Pirate"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://image.radioking.io/radios/497272/coverdefault/30163b69-418d-4455-bec5-178f430c2820.png"tvg-chno="100"group-title="📻 Radio Québécoise",Radio Pirate
