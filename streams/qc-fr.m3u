@@ -1,13 +1,15 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-name="ICI RDI"tvg-id="ICI.Reseau.de.lInformation.HDTV.(ICIRDIHD).ca"tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png"tvg-chno="1"group-title="Français",ICI RDI
+#EXTINF:-1 tvg-name="ICI RDI"tvg-id="ICI.Reseau.de.lInformation.HDTV.(ICIRDIHD).ca"tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png"tvg-chno="1"group-title="Français",ICI RDI (720p)
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
-#EXTINF:-1 tvg-name="LCN"tvg-id="Le.Canal.Nouvelles.HDTV.(LCND).ca"tvg-logo="https://i.imgur.com/JHOyrgA.png"tvg-chno="9"group-title="Français",LCN
+#EXTINF:-1 tvg-name="Canal Savoir"tvg-id="Savoir.média.(SVMD).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png"tvg-chno="7"group-title="Français",Canal Savoir 
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-name="LCN"tvg-id="Le.Canal.Nouvelles.HDTV.(LCND).ca"tvg-logo="https://i.imgur.com/JHOyrgA.png"tvg-chno="9"group-title="Français",LCN (720p)
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
-#EXTINF:-1 tvg-name="TVA Montréal"tvg-id="CFTM.TVA.HDTV.(Montreal).(TVAHD).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA.png"tvg-chno="11"group-title="Français",TVA
+#EXTINF:-1 tvg-name="TVA Montréal"tvg-id="CFTM.TVA.HDTV.(Montreal).(TVAHD).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA.png"tvg-chno="11"group-title="Français",TVA (1080p)
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Montréal"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="43"group-title="Français",ICI Télé Montréal
+#EXTINF:-1 tvg-name="ICI Télé Montréal 1080p"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="43"group-title="Français",ICI Télé Montréal (1080p)
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Québec"tvg-id="CBVT.ICI.Radio-Canada.HDTV.(Québec).(IRCHD).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="49"group-title="Français",ICI Télé Québec
+#EXTINF:-1 tvg-name="ICI Télé Québec"tvg-id="CBVT.ICI.Radio-Canada.HDTV.(Québec).(IRCHD).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="49"group-title="Français",ICI Télé Québec (720p)
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
 #EXTINF:-1 tvg-id="WPTZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Anglais",NBC 5 Plattsburgh NY (WPTZ) (720p)
 https://lnc-wptz.tubi.video/playlist.m3u8
@@ -17,53 +19,51 @@ https://lnc-wtvt.tubi.video/index.m3u8
 https://lnc-wcvb.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="WBNSDT1.us" tvg-logo="https://i.imgur.com/S5Hqowu.png" group-title="Anglais",CBS 10 Columbus OH (WBNS) (1080p)
 https://lnc-wbns.tubi.video/live.m3u8
-#EXTINF:-1 tvg-name="Canal Savoir"tvg-id="Savoir.média.(SVMD).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png"tvg-chno="7"group-title="Français",Canal Savoir
-https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Français",France 24 French
+#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Français",France 24 French (1080p)
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
-#EXTINF:-1 tvg-id="FranceInter.fr" tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="Français",France Inter (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="FranceInter.fr" tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="Français",France Inter (1080p) 
 https://ythls.armelin.one/channel/UCJldRgT_D7Am-ErRHQZ90uw.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Français",Euronews Français (720p)
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Français",TV5Monde Info (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Français",TV5Monde Info (1080p) 
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Français",TF1 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Français",TF1 (720p) 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="Français",RT France (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="Français",RT France (1080p) 
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-name="Assemblée Nationale du QC"tvg-id="Assemblée.Nationale.(ASSNA).ca"tvg-logo="http://assets.grenier.qc.ca/cdn-cgi/image/q=90,fit=pad,w=200,h=200/uploads/images/logo-Assnat-complet-Couleur-180593.png"tvg-chno="57"group-title="Français",Assemblée Nationale du QC
 https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
 #EXTINF:-1 tvg-name="CPAC FR"tvg-id="CPAC.French.HD.(CPACFH).ca"tvg-logo="https://i.imgur.com/5ym6eJS.png"tvg-chno="59"group-title="Français",CPAC FR
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-#EXTINF:-1 tvg-id="CBRTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/CBRT-DT_logo.jpg" group-title="Anglais",CBC Calgary (CBRT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBRTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/CBRT-DT_logo.jpg" group-title="Anglais",CBC Calgary (CBRT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
-#EXTINF:-1 tvg-id="CBXTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png" group-title="Anglais",CBC Edmonton (CBXT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBXTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png" group-title="Anglais",CBC Edmonton (CBXT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
-#EXTINF:-1 tvg-id="CBWTDT.ca" tvg-logo="https://i.imgur.com/aWNHg5z.png" group-title="Anglais",CBC Manitoba (CBWT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBWTDT.ca" tvg-logo="https://i.imgur.com/aWNHg5z.png" group-title="Anglais",CBC Manitoba (CBWT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
-#EXTINF:-1 tvg-id="CBMTDT.ca" tvg-logo="https://i.imgur.com/OiiM6Mz.png" group-title="Anglais",CBC Montréal (CBMT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBMTDT.ca" tvg-logo="https://i.imgur.com/OiiM6Mz.png" group-title="Anglais",CBC Montréal (CBMT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
-#EXTINF:-1 tvg-id="CBATDT.ca" tvg-logo="https://i.imgur.com/xflShTG.png" group-title="Anglais",CBC New Brunswick (CBAT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBATDT.ca" tvg-logo="https://i.imgur.com/xflShTG.png" group-title="Anglais",CBC New Brunswick (CBAT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
-#EXTINF:-1 tvg-id="CBNTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Logo_for_CBNT-DT.jpg" group-title="Anglais",CBC Newfoundland and Labrador (CBNT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBNTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Logo_for_CBNT-DT.jpg" group-title="Anglais",CBC Newfoundland and Labrador (CBNT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
-#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="News",CBC News Network (1080p)
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Anglais",CBC News Network (1080p)
 https://lnc-cbc2.tubi.video/master.m3u8
-#EXTINF:-1 tvg-id="CFYKDT.ca" tvg-logo="https://i.imgur.com/EHGOQhj.png" group-title="Anglais",CBC North (CFYK-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CFYKDT.ca" tvg-logo="https://i.imgur.com/EHGOQhj.png" group-title="Anglais",CBC North (CFYK-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
-#EXTINF:-1 tvg-id="CBHTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/CBHT-DT_Logo.jpg" group-title="Anglais",CBC Nova Scotia (CBHT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBHTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/CBHT-DT_Logo.jpg" group-title="Anglais",CBC Nova Scotia (CBHT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
-#EXTINF:-1 tvg-id="CBOTDT.ca" tvg-logo="https://i.imgur.com/v3DJUa8.png" group-title="Anglais",CBC Ottawa (CBOT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBOTDT.ca" tvg-logo="https://i.imgur.com/v3DJUa8.png" group-title="Anglais",CBC Ottawa (CBOT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
-#EXTINF:-1 tvg-id="CBCTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/CBCT-DT_logo.jpg" group-title="Anglais",CBC Prince Edward Island (CBCT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/CBCT-DT_logo.jpg" group-title="Anglais",CBC Prince Edward Island (CBCT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
-#EXTINF:-1 tvg-id="CBKTDT.ca" tvg-logo="https://i.imgur.com/PWGVjsg.png" group-title="Anglais",CBC Saskatchewan (CBKT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBKTDT.ca" tvg-logo="https://i.imgur.com/PWGVjsg.png" group-title="Anglais",CBC Saskatchewan (CBKT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
-#EXTINF:-1 tvg-id="CBLTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/CBLT-DT_Logo.jpg" group-title="Anglais",CBC Toronto (CBLT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBLTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/CBLT-DT_Logo.jpg" group-title="Anglais",CBC Toronto (CBLT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-#EXTINF:-1 tvg-id="CBUTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/CBUT-DT_Logo.jpg" group-title="Anglais",CBC Vancouver (CBUT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBUTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/CBUT-DT_Logo.jpg" group-title="Anglais",CBC Vancouver (CBUT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
-#EXTINF:-1 tvg-id="CBETDT.ca" tvg-logo="https://i.imgur.com/NFts1uU.png" group-title="Anglais",CBC Windsor (CBET-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBETDT.ca" tvg-logo="https://i.imgur.com/NFts1uU.png" group-title="Anglais",CBC Windsor (CBET-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Anglais",CBS News 24/7
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6350fdd266e9ea0007bedec5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799153-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15376bcb-2b34-4530-a2f7-c528a8eb2aa3
@@ -300,13 +300,13 @@ https://jmp2.uk/SamsungTVPlus/USBD3500016NH.m3u8
 https://jmp2.uk/SamsungTVPlus/USBD3500009Y3.m3u8
 #EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Stingray Music",Stingray Urban Beat (1080p)
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-name="Queen 24/7 Radio Bob"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.fr/images/broadcasts/fe/a6/40670/3/c300.png"tvg-chno="404"group-title="📻 Music Bands",Queen 24/7 Radio Bob
+#EXTINF:-1 tvg-name="Queen 24/7 Radio Bob"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.fr/images/broadcasts/fe/a6/40670/3/c300.png"tvg-chno="404"group-title="Music",Queen 24/7 Radio Bob
 https://regiocast.streamabc.net/regc-radiobobqueen9008899-mp3-192-1544549
-#EXTINF:-1 tvg-name="Queen 24/7 Exclusive Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.fr/images/broadcasts/c6/37/180248/1/c300.png"tvg-chno="405"group-title="📻 Music Bands",Queen 24/7 Exclusive Radio
+#EXTINF:-1 tvg-name="Queen 24/7 Exclusive Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://www.radio.fr/images/broadcasts/c6/37/180248/1/c300.png"tvg-chno="405"group-title="Music",Queen 24/7 Exclusive Radio
 https://streaming.exclusive.radio/er-app/queen/icecast.audio
-#EXTINF:-1 tvg-name="Elvis Radio 24/7 "tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/bQtFzTdYNJ.jpg"tvg-chno="406"group-title="📻 Music Bands",Elvis Radio 24/7
+#EXTINF:-1 tvg-name="Elvis Radio 24/7 "tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/bQtFzTdYNJ.jpg"tvg-chno="406"group-title="Music",Elvis Radio 24/7
 https://jm8n.com/proxy/roberelvis/stream
-#EXTINF:-1 tvg-name="Always Elvis Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://api.my-radios.com/images/thumb.php?countryCode=DK&name=27983-5647696.png&size=200"tvg-chno="407"group-title="📻 Music Bands",Always Elvis Radio
+#EXTINF:-1 tvg-name="Always Elvis Radio"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="http://api.my-radios.com/images/thumb.php?countryCode=DK&name=27983-5647696.png&size=200"tvg-chno="407"group-title="Music",Always Elvis Radio
 http://89.249.7.68/alwayselvisradio
-#EXTINF:-1 tvg-name="Beatlles 24/7 181.fm"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://pluspng.com/img-png/the-beatles-png-the-beatles-by-andreza0406-the-beatles-by-andreza0406-900.png"tvg-chno="408"group-title="📻 Music Bands",Beatlles 24/7 181.fm
+#EXTINF:-1 tvg-name="Beatlles 24/7 181.fm"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://pluspng.com/img-png/the-beatles-png-the-beatles-by-andreza0406-the-beatles-by-andreza0406-900.png"tvg-chno="408"group-title="Music",Beatlles 24/7 181.fm
 http://listen.181fm.com/181-beatles_128k.mp3
