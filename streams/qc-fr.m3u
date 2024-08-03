@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-name="ICI RDI"tvg-id="ICI.Reseau.de.lInformation.HDTV.(ICIRDIHD).ca"tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png"tvg-chno="1"group-title="Français",ICI RDI (720p)
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
-#EXTINF:-1 tvg-name="Canal Savoir"tvg-id="Savoir.média.(SVMD).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png"tvg-chno="7"group-title="Français",Canal Savoir 
-https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-name="LCN"tvg-id="Le.Canal.Nouvelles.HDTV.(LCND).ca"tvg-logo="https://i.imgur.com/JHOyrgA.png"tvg-chno="9"group-title="Français",LCN (720p)
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-name="TVA Montréal"tvg-id="CFTM.TVA.HDTV.(Montreal).(TVAHD).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA.png"tvg-chno="11"group-title="Français",TVA (1080p)
@@ -11,6 +9,8 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 #EXTINF:-1 tvg-name="ICI Télé Québec"tvg-id="CBVT.ICI.Radio-Canada.HDTV.(Québec).(IRCHD).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="49"group-title="Français",ICI Télé Québec (720p)
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
+#EXTINF:-1 tvg-name="Canal Savoir"tvg-id="Savoir.média.(SVMD).ca"tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png"tvg-chno="7"group-title="Français",Canal Savoir 
+https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="WPTZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Anglais",NBC 5 Plattsburgh NY (WPTZ) (720p)
 https://lnc-wptz.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="WTVTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Anglais",FOX 13 Tampa Bay FL (WTVT) (720p)
