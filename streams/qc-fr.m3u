@@ -21,7 +21,7 @@ https://lnc-wcvb.tubi.video/playlist.m3u8
 https://lnc-wbns.tubi.video/live.m3u8
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Français",France 24 French (1080p)
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
-#EXTINF:-1 tvg-id="FranceInter.fr" tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="Français",France Inter (1080p) 
+#EXTINF:-1 tvg-id="France.24.(North.America.-.French).(F24).us" tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="Français",France Inter (1080p) 
 https://ythls.armelin.one/channel/UCJldRgT_D7Am-ErRHQZ90uw.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Français",Euronews Français (720p)
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
