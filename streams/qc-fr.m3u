@@ -19,11 +19,11 @@ https://lnc-wtvt.tubi.video/index.m3u8
 https://lnc-wcvb.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="WBNSDT1.us" tvg-logo="https://i.imgur.com/S5Hqowu.png" group-title="Anglais",CBS 10 Columbus OH (WBNS) (1080p)
 https://lnc-wbns.tubi.video/live.m3u8
-#EXTINF:-1 tvg-id="France.24.(North.America.-.French).(F24).us" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Français",France 24 French (1080p)
+#EXTINF:-1 tvg-id="France.24.(North.America.–.English).(F24).us" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Français",France 24 French (1080p)
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
-#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Français",Euronews Français (720p)
+#EXTINF:-1 tvg-id="euronews.(EUNEWS).us" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Français",Euronews Français (720p)
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Français",TV5Monde Info (1080p) 
+#EXTINF:-1 tvg-id="TV5.Monde.(USA).HDTV.(TV5HD).us" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Français",TV5Monde Info (1080p) 
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Français",TF1 (720p) 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
@@ -65,32 +65,8 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master
 https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Anglais",CBS News 24/7
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6350fdd266e9ea0007bedec5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799153-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15376bcb-2b34-4530-a2f7-c528a8eb2aa3
-#EXTINF:-1 tvg-name="Global News National"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="216"group-title="Anglais",Global News National
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Okanagan"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="217"group-title="Anglais",Global News Okanagan
-https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News BC"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="218"group-title="Anglais",Global News BC
-https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Calgary"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="219"group-title="Anglais",Global News Calgary
-https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Edmonton"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="220"group-title="Anglais",Global News Edmonton
-https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Halifax"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="221"group-title="Anglais",Global News Halifax
-https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Kingston"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="222"group-title="Anglais",Global News Kingston
-https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
 #EXTINF:-1 tvg-name="Global News Montreal"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="223"group-title="Anglais",Global News Montreal
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Peterborough"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="224"group-title="Anglais",Global News Peterborough
-https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Regina"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="225"group-title="Anglais",Global News Regina
-https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Saskatoon"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="226"group-title="Anglais",Global News Saskatoon
-https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Toronto"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="227"group-title="Anglais",Global News Toronto
-https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Winnipeg"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="228"group-title="Anglais",Global News Winnipeg
-https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
 #EXTINF:-1 tvg-id="WKYCDT1.us" tvg-logo="https://i.imgur.com/zsZrW2K.png" group-title="Anglais",NBC 3 Cleveland OH (WKYC) (1080p)
 https://lnc-wkyc.tubi.video/live.m3u8
 #EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="Anglais",BBC News (North America) (1080p)
@@ -99,10 +75,8 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://livevideo.tegnadigital.com/wnep/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WNEP/elvs/live.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="Sports",NHL (1080p)
 https://lnc-nhl.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.Sports.us" tvg-logo="" group-title="Sports",NBC Sports
+#EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NBC_Sports_stacked_logo_%282012-present%29.svg/1200px-NBC_Sports_stacked_logo_%282012-present%29.svg.png" group-title="Sports",NBC Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5102-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21e31328-eadb-4828-8608-0cc14ce24586
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Dazn TV Canada (720p)
-https://live-manifest.production-public.tubi.io/live/dazntv-canada/h264/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Contenu en continu",Un gars une fille
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3ece7b09fd6000783bfb9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d810-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d4806e73-8205-4c2d-96f4-b4107c552c9a
 #### Radio ####
