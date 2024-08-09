@@ -11,6 +11,10 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
 #EXTINF:-1 tvg-name="Canal Savoir" tvg-id="Savoir.média.(SVMD).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png" tvg-chno="7" group-title="Français",Canal Savoir 
 https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="CBC.Quebec.HDTV.(CBMTHD).ca" tvg-logo="https://i.imgur.com/OiiM6Mz.png" group-title="Anglais",CBC Montréal (CBMT-DT) 
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+#EXTINF:-1 tvg-id="CBC.News.Network.HDTV.(CBCNEWHD).ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Anglais",CBC News Network (1080p)
+https://lnc-cbc2.tubi.video/master.m3u8
 #EXTINF:-1 tvg-name="NBC 5 Plattsburgh NY" tvg-id="NBC.(WPTZ).Plattsburg,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/851px-NBC_logo.svg.png" group-title="Anglais",NBC 5 Plattsburgh NY (WPTZ) (720p)
 https://lnc-wptz.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX Boston" tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="Anglais",Fox 25 Boston (WFXT-TV) [Geo-blocked]
@@ -33,43 +37,21 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
 #EXTINF:-1 tvg-name="CPAC FR"tvg-id="CPAC.French.HD.(CPACFH).ca"tvg-logo="https://i.imgur.com/5ym6eJS.png"tvg-chno="59"group-title="Français",CPAC FR
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-#EXTINF:-1 tvg-id="CBRTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/CBRT-DT_logo.jpg" group-title="Anglais",CBC Calgary (CBRT-DT) 
+#EXTINF:-1 tvg-id="CBC.Calgary.HDTV.(CBRTHD).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/CBRT-DT_logo.jpg" group-title="Anglais",CBC Calgary (CBRT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
-#EXTINF:-1 tvg-id="CBXTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png" group-title="Anglais",CBC Edmonton (CBXT-DT) 
+#EXTINF:-1 tvg-id="CBC.Edmonton.HDTV.(CBXTHD).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png" group-title="Anglais",CBC Edmonton (CBXT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
-#EXTINF:-1 tvg-id="CBWTDT.ca" tvg-logo="https://i.imgur.com/aWNHg5z.png" group-title="Anglais",CBC Manitoba (CBWT-DT) 
+#EXTINF:-1 tvg-id="CBC.Manitoba.HDTV.(CBWT).ca" tvg-logo="https://i.imgur.com/aWNHg5z.png" group-title="Anglais",CBC Manitoba (CBWT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
-#EXTINF:-1 tvg-id="CBMTDT.ca" tvg-logo="https://i.imgur.com/OiiM6Mz.png" group-title="Anglais",CBC Montréal (CBMT-DT) 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
-#EXTINF:-1 tvg-id="CBATDT.ca" tvg-logo="https://i.imgur.com/xflShTG.png" group-title="Anglais",CBC New Brunswick (CBAT-DT) 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
-#EXTINF:-1 tvg-id="CBNTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Logo_for_CBNT-DT.jpg" group-title="Anglais",CBC Newfoundland and Labrador (CBNT-DT) 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
-#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Anglais",CBC News Network (1080p)
-https://lnc-cbc2.tubi.video/master.m3u8
-#EXTINF:-1 tvg-id="CFYKDT.ca" tvg-logo="https://i.imgur.com/EHGOQhj.png" group-title="Anglais",CBC North (CFYK-DT) 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
-#EXTINF:-1 tvg-id="CBHTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/CBHT-DT_Logo.jpg" group-title="Anglais",CBC Nova Scotia (CBHT-DT) 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
-#EXTINF:-1 tvg-id="CBOTDT.ca" tvg-logo="https://i.imgur.com/v3DJUa8.png" group-title="Anglais",CBC Ottawa (CBOT-DT) 
+#EXTINF:-1 tvg-id="CBOT.HDTV.(CBOTHD).ca" tvg-logo="https://i.imgur.com/v3DJUa8.png" group-title="Anglais",CBC Ottawa (CBOT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
-#EXTINF:-1 tvg-id="CBCTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/CBCT-DT_logo.jpg" group-title="Anglais",CBC Prince Edward Island (CBCT-DT) 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
-#EXTINF:-1 tvg-id="CBKTDT.ca" tvg-logo="https://i.imgur.com/PWGVjsg.png" group-title="Anglais",CBC Saskatchewan (CBKT-DT) 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
-#EXTINF:-1 tvg-id="CBLTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/CBLT-DT_Logo.jpg" group-title="Anglais",CBC Toronto (CBLT-DT) 
+#EXTINF:-1 tvg-id="CBC.Toronto.HDTV.(CBLTHD).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/CBLT-DT_Logo.jpg" group-title="Anglais",CBC Toronto (CBLT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-#EXTINF:-1 tvg-id="CBUTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/CBUT-DT_Logo.jpg" group-title="Anglais",CBC Vancouver (CBUT-DT) 
+#EXTINF:-1 tvg-id="CBC.Vancouver.HDTV.(CBUTHD).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/CBUT-DT_Logo.jpg" group-title="Anglais",CBC Vancouver (CBUT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
-#EXTINF:-1 tvg-id="CBETDT.ca" tvg-logo="https://i.imgur.com/NFts1uU.png" group-title="Anglais",CBC Windsor (CBET-DT) 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Anglais",CBS News 24/7
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6350fdd266e9ea0007bedec5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799153-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15376bcb-2b34-4530-a2f7-c528a8eb2aa3
-#EXTINF:-1 tvg-name="Global News Montreal"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png"tvg-chno="223"group-title="Anglais",Global News Montreal
-https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
 #EXTINF:-1 tvg-id="WKYCDT1.us" tvg-logo="https://i.imgur.com/zsZrW2K.png" group-title="Anglais",NBC 3 Cleveland OH (WKYC) (1080p)
 https://lnc-wkyc.tubi.video/live.m3u8
-#EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="Anglais",BBC News (North America) (1080p)
+#EXTINF:-1 tvg-id="BBCNewsNorthAmerica.us" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="Anglais",BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="WNEPDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Anglais",ABC 16 Wilkes Barre PA (WNEP) (1080p)
 https://livevideo.tegnadigital.com/wnep/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WNEP/elvs/live.m3u8
