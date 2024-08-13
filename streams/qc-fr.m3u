@@ -11,6 +11,10 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
 #EXTINF:-1 tvg-name="Canal Savoir" tvg-id="Savoir.média.(SVMD).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png" tvg-chno="7" group-title="Français",Canal Savoir 
 https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-name="Noovo téléréalités" channel-id="samsung-CA1400006BZ" tvg-id="CA1400006BZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400006BZ_20240625T011552SQUARE.png" tvg-chno="1248" group-title="Français" , Noovo téléréalités
+https://jmp2.uk/SamsungTVPlus/CA1400006BZ.m3u8
+#EXTINF:-1 tvg-name="Noovo comédies"  channel-id="samsung-CA1300001DN" tvg-id="CA1300001DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300001DN_20240702T044808SQUARE.png" tvg-chno="1324" group-title="Français" , Noovo comédies
+https://jmp2.uk/SamsungTVPlus/CA1300001DN.m3u8
 #EXTINF:-1 tvg-id="CBC.Quebec.HDTV.(CBMTHD).ca" tvg-logo="https://i.imgur.com/OiiM6Mz.png" group-title="Anglais",CBC Montréal (CBMT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 tvg-id="CBC.News.Network.HDTV.(CBCNEWHD).ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Anglais",CBC News Network (1080p)
@@ -37,6 +41,8 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
 #EXTINF:-1 tvg-name="CPAC FR"tvg-id="CPAC.French.HD.(CPACFH).ca"tvg-logo="https://i.imgur.com/5ym6eJS.png"tvg-chno="59"group-title="Français",CPAC FR
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA" channel-id="samsung-CABA8000043F" tvg-id="CABA8000043F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA8000043F_20240716T002953SQUARE.png" tvg-chno="1157" group-title="Anglais" , beIN SPORTS XTRA
+https://jmp2.uk/SamsungTVPlus/CABA8000043F.m3u8
 #EXTINF:-1 tvg-id="CBC.Calgary.HDTV.(CBRTHD).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/CBRT-DT_logo.jpg" group-title="Anglais",CBC Calgary (CBRT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
 #EXTINF:-1 tvg-id="CBC.Edmonton.HDTV.(CBXTHD).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png" group-title="Anglais",CBC Edmonton (CBXT-DT) 
@@ -59,11 +65,12 @@ https://livevideo.tegnadigital.com/wnep/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 https://lnc-nhl.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NBC_Sports_stacked_logo_%282012-present%29.svg/1200px-NBC_Sports_stacked_logo_%282012-present%29.svg.png" group-title="Sports",NBC Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5102-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21e31328-eadb-4828-8608-0cc14ce24586
+#EXTINF:-1 channel-id="samsung-CABD1200013IH" tvg-id="CABD1200013IH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200013IH_20230823T001850SQUARE.png_20230823001851.png" tvg-chno="1187" group-title="Sports" , World Poker Tour
+https://jmp2.uk/SamsungTVPlus/CABD1200013IH.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Contenu en continu",Un gars une fille
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3ece7b09fd6000783bfb9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d810-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d4806e73-8205-4c2d-96f4-b4107c552c9a
 #EXTINF:-1 channel-id="pluto-64dab9df3d48f40008868091" tvg-id="64dab9df3d48f40008868091" tvg-logo="https://images.pluto.tv/channels/64dab9df3d48f40008868091/colorLogoPNG.png" tvg-chno="3480" group-title="Anglais, The Jamie Oliver Channel
 https://jmp2.uk/PlutoTV/64dab9df3d48f40008868091-alt.m3u8
-
 #### Radio ####
 #EXTINF:-1 tvg-id="FranceInter.fr" tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="Radio",France Inter (1080p) 
 http://icecast.radiofrance.fr/franceinter-hifi.aac?id=radiofrance
