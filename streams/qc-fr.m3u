@@ -39,8 +39,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-name="Assemblée Nationale du QC" tvg-id="Assemblée.Nationale.(ASSNA).ca" tvg-logo="https://www.donneesquebec.ca/recherche/uploads/group/2022-02-04-211132.417588logo-AssnatcompletCouleur.jpg" group-title="Français",Assemblée Nationale du QC
 https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
-#EXTINF:-1 tvg-name="CPAC FR"tvg-id="CPAC.French.HD.(CPACFH).ca"tvg-logo="https://i.imgur.com/5ym6eJS.png"tvg-chno="59"group-title="Français",CPAC FR
-https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS XTRA" channel-id="samsung-CABA8000043F" tvg-id="CABA8000043F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA8000043F_20240716T002953SQUARE.png" tvg-chno="1157" group-title="Anglais" , beIN SPORTS XTRA
 https://jmp2.uk/SamsungTVPlus/CABA8000043F.m3u8
 #EXTINF:-1 tvg-id="CBC.Calgary.HDTV.(CBRTHD).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/CBRT-DT_logo.jpg" group-title="Anglais",CBC Calgary (CBRT-DT) 
