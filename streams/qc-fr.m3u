@@ -18,6 +18,8 @@ https://jmp2.uk/SamsungTVPlus/CA1300001DN.m3u8
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 tvg-id="CBC.News.Network.HDTV.(CBCNEWHD).ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Anglais",CBC News Network (1080p)
 https://lnc-cbc2.tubi.video/master.m3u8
+#EXTINF:0 tvg-name="Global TV" tvg-language="English" tvg-country="CA" tvg-id="GlobalTV" tvg-logo="https://play-lh.googleusercontent.com/mIX4hgfbxsPs4Nu8Gq_uKA2MivSI3GOyOf0Gb-CvlzDW_jcVdYLypCoJbojHGmLtYkQ" group-title="Anglais",Global TV
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 #EXTINF:-1 tvg-name="NBC 5 Plattsburgh NY" tvg-id="NBC.(WPTZ).Plattsburg,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/851px-NBC_logo.svg.png" group-title="Anglais",NBC 5 Plattsburgh NY (WPTZ) (720p)
 https://lnc-wptz.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX Boston" tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="Anglais",Fox 25 Boston (WFXT-TV) [Geo-blocked]
@@ -36,6 +38,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="Français",RT France (1080p) 
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Logo_BFMTV_2019.svg" tvg-language="French" group-title="Français",BFM Grands Reportage
+https://jmp2.uk/SamsungTVPlus/FR300004J5.m3u8
 #EXTINF:-1 tvg-name="Assemblée Nationale du QC" tvg-id="Assemblée.Nationale.(ASSNA).ca" tvg-logo="https://www.donneesquebec.ca/recherche/uploads/group/2022-02-04-211132.417588logo-AssnatcompletCouleur.jpg" group-title="Français",Assemblée Nationale du QC
 https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS XTRA" channel-id="samsung-CABA8000043F" tvg-id="CABA8000043F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA8000043F_20240716T002953SQUARE.png" tvg-chno="1157" group-title="Anglais" , beIN SPORTS XTRA
