@@ -21,12 +21,22 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5
 https://lnc-cbc2.tubi.video/master.m3u8
 #EXTINF:0 tvg-name="Global TV" tvg-language="English" tvg-country="CA" tvg-id="GlobalTV" tvg-logo="https://play-lh.googleusercontent.com/mIX4hgfbxsPs4Nu8Gq_uKA2MivSI3GOyOf0Gb-CvlzDW_jcVdYLypCoJbojHGmLtYkQ" group-title="Anglais",Global TV
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 tvg-id="WNEPDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Anglais",ABC 16 Wilkes Barre PA (WNEP) (1080p)
+https://livevideo.tegnadigital.com/wnep/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WNEP/elvs/live.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Anglais",ABC 25 WOLO-DT1 (Columbia SC) (720p)
+http://143.244.60.30/ABC_EAST/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Anglais",NBC 11 Pittsburgh PA (WPXI) (720p)
+https://lnc-wpxi2.tubi.video/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://ratemystation.com/wp-content/uploads/2020/03/WKYC-newsroom-local-tv-news-review.jpeg" group-title="Anglais",NBC 3 Cleveland OH (WKYC) (1080p)
+https://lnc-wkyc.tubi.video/live.m3u8
 #EXTINF:-1 tvg-name="NBC 5 Plattsburgh NY" tvg-id="NBC.(WPTZ).Plattsburg,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/851px-NBC_logo.svg.png" group-title="Anglais",NBC 5 Plattsburgh NY (WPTZ) (720p)
 https://lnc-wptz.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX Boston" tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="Anglais",Fox 25 Boston (WFXT-TV) [Geo-blocked]
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
 #EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="Anglais",ABC 5 Boston MA (WCVB) (720p)
 https://lnc-wcvb.tubi.video/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kITPWt5UpkqR_yh47NweEbQ3-DLcQ6S7Tl6cCEx-mgDBE=s900-c-k-c0x00ffffff-no-rj" group-title="Anglais",CBS 10 WTSP (Tampa FL) (1080p)
+https://video.tegnaone.com/wtsp/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTSP-Production/live/index.m3u8
 #EXTINF:-1 tvg-id="WBNSDT1.us" tvg-logo="https://i.imgur.com/S5Hqowu.png" group-title="Anglais",CBS 10 Columbus OH (WBNS) (1080p)
 https://lnc-wbns.tubi.video/live.m3u8
 #EXTINF:-1 tvg-id="France.24.(North.America.–.English).(F24).us" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Français",France 24 French (1080p)
@@ -61,8 +71,6 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master
 https://lnc-wkyc.tubi.video/live.m3u8
 #EXTINF:-1 tvg-id="BBCNewsNorthAmerica.us" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="Anglais",BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="WNEPDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Anglais",ABC 16 Wilkes Barre PA (WNEP) (1080p)
-https://livevideo.tegnadigital.com/wnep/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WNEP/elvs/live.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="Sports",NHL (1080p)
 https://lnc-nhl.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NBC_Sports_stacked_logo_%282012-present%29.svg/1200px-NBC_Sports_stacked_logo_%282012-present%29.svg.png" group-title="Sports",NBC Sports
