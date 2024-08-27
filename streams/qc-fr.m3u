@@ -25,14 +25,12 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WNEPDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Anglais",ABC 16 Wilkes Barre PA (WNEP) (1080p)
 https://livevideo.tegnadigital.com/wnep/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WNEP/elvs/live.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Anglais",ABC 25 WOLO-DT1 (Columbia SC) (720p)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Anglais",ABC 25 WOLO-DT1 (Columbia SC) (720p)
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Anglais",NBC 11 Pittsburgh PA (WPXI) (720p)
+#EXTINF:0 tvg-logo="" group-title="Anglais",NBC 11 Pittsburgh PA (WPXI) (720p)
 https://lnc-wpxi2.tubi.video/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://ratemystation.com/wp-content/uploads/2020/03/WKYC-newsroom-local-tv-news-review.jpeg" group-title="Anglais",NBC 3 Cleveland OH (WKYC) (1080p)
 https://lnc-wkyc.tubi.video/live.m3u8
-#EXTINF:-1 tvg-name="NBC 5 Plattsburgh NY" tvg-id="NBC.(WPTZ).Plattsburg,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/851px-NBC_logo.svg.png" group-title="Anglais",NBC 5 Plattsburgh NY (WPTZ) (720p)
-https://lnc-wptz.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX Boston" tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="Anglais",Fox 25 Boston (WFXT-TV) [Geo-blocked]
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
 #EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="Anglais",ABC 5 Boston MA (WCVB) (720p)
