@@ -33,8 +33,6 @@ https://lnc-wpxi2.tubi.video/playlist.m3u8
 https://lnc-wkyc.tubi.video/live.m3u8
 #EXTINF:-1 tvg-name="FOX Boston" tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="Anglais",Fox 25 Boston (WFXT-TV) [Geo-blocked]
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
-#EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="Anglais",ABC 5 Boston MA (WCVB) (720p)
-https://lnc-wcvb.tubi.video/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kITPWt5UpkqR_yh47NweEbQ3-DLcQ6S7Tl6cCEx-mgDBE=s900-c-k-c0x00ffffff-no-rj" group-title="Anglais",CBS 10 WTSP (Tampa FL) (1080p)
 https://video.tegnaone.com/wtsp/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTSP-Production/live/index.m3u8
 #EXTINF:-1 tvg-id="WBNSDT1.us" tvg-logo="https://i.imgur.com/S5Hqowu.png" group-title="Anglais",CBS 10 Columbus OH (WBNS) (1080p)
