@@ -9,12 +9,14 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 #EXTINF:-1 tvg-name="ICI Télé Québec" tvg-id="CBVT.ICI.Radio-Canada.HDTV.(Québec).(IRCHD).ca" tvg-logo="https://praxis.encommun.io/media/note/note_12968/301013302_5707345052638556_7813756990056893412_n.jpg" group-title="Français",ICI Télé Québec (720p)
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
-#EXTINF:-1 tvg-name="Canal Savoir" tvg-id="Savoir.média.(SVMD).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png" tvg-chno="7" group-title="Français",Canal Savoir 
-https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-name="Télé-Québec" tvg-id="CIVADT.ca" tvg-logo="https://i.imgur.com/Wcnnqcy.png" group-title="Français",Télé-Québec
+https://bcovlive-a.akamaihd.net/329d54c0bae445ff8dc85b8a91da0308/us-west-2/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-name="Noovo cinéma" channel-id="samsung-CA1400008DK" tvg-id="CA1400008DK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400008DK_20240709T002029SQUARE.png" group-title="Français", Noovo cinéma
+https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-noovocinema-lgca/playlist.m3u8
 #EXTINF:-1 tvg-name="Noovo téléréalités" channel-id="samsung-CA1400006BZ" tvg-id="CA1400006BZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400006BZ_20240625T011552SQUARE.png" tvg-chno="1248" group-title="Français", Noovo téléréalités
-https://jmp2.uk/SamsungTVPlus/CA1400006BZ.m3u8
+https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-noovotelerealites-lgca/playlist.m3u8
 #EXTINF:-1 tvg-name="Noovo comédies"  channel-id="samsung-CA1300001DN" tvg-id="CA1300001DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300001DN_20240702T044808SQUARE.png" tvg-chno="1324" group-title="Français", Noovo comédies
-https://jmp2.uk/SamsungTVPlus/CA1300001DN.m3u8
+https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-noovocomedies-lgca/playlist.m3u8
 #EXTINF:-1 tvg-id="CBC.Quebec.HDTV.(CBMTHD).ca" tvg-logo="https://i.imgur.com/OiiM6Mz.png" group-title="Anglais",CBC Montréal (CBMT-DT) 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 tvg-id="CBC.News.Network.HDTV.(CBCNEWHD).ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Anglais",CBC News Network (1080p)
