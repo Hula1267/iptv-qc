@@ -21,19 +21,19 @@ https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 tvg-id="CBC.News.Network.HDTV.(CBCNEWHD).ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Anglais",CBC News Network (1080p)
 https://lnc-cbc2.tubi.video/master.m3u8
-#EXTINF:0 tvg-name="Global TV" tvg-language="English" tvg-country="CA" tvg-id="GlobalTV" tvg-logo="https://play-lh.googleusercontent.com/mIX4hgfbxsPs4Nu8Gq_uKA2MivSI3GOyOf0Gb-CvlzDW_jcVdYLypCoJbojHGmLtYkQ" group-title="Anglais",Global TV
+#EXTINF:-1 tvg-name="Global TV" tvg-language="English" tvg-country="CA" tvg-id="GlobalTV" tvg-logo="https://play-lh.googleusercontent.com/mIX4hgfbxsPs4Nu8Gq_uKA2MivSI3GOyOf0Gb-CvlzDW_jcVdYLypCoJbojHGmLtYkQ" group-title="Anglais",Global TV
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/CNN_International_logo.svg" group-title="Anglais",CNN International
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/CNN_International_logo.svg" group-title="Anglais",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Anglais",WOLO-DT1 ABC 25 (Columbia SC) (720p)
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Anglais",NBC 11 Pittsburgh PA (WPXI) (720p)
+#EXTINF:-1 tvg-logo="" group-title="Anglais",NBC 11 Pittsburgh PA (WPXI) (720p)
 https://lnc-wpxi2.tubi.video/playlist.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="https://ratemystation.com/wp-content/uploads/2020/03/WKYC-newsroom-local-tv-news-review.jpeg" group-title="Anglais",NBC 3 Cleveland OH (WKYC) (1080p)
+#EXTINF:-1 tvg-country="US" tvg-logo="https://ratemystation.com/wp-content/uploads/2020/03/WKYC-newsroom-local-tv-news-review.jpeg" group-title="Anglais",NBC 3 Cleveland OH (WKYC) (1080p)
 https://lnc-wkyc.tubi.video/live.m3u8
 #EXTINF:-1 tvg-name="FOX Boston" tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="Anglais",Fox 25 Boston (WFXT-TV) [Geo-blocked]
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kITPWt5UpkqR_yh47NweEbQ3-DLcQ6S7Tl6cCEx-mgDBE=s900-c-k-c0x00ffffff-no-rj" group-title="Anglais",CBS 10 WTSP (Tampa FL) (1080p)
+#EXTINF:-1 tvg-country="US" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kITPWt5UpkqR_yh47NweEbQ3-DLcQ6S7Tl6cCEx-mgDBE=s900-c-k-c0x00ffffff-no-rj" group-title="Anglais",CBS 10 WTSP (Tampa FL) (1080p)
 https://video.tegnaone.com/wtsp/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTSP-Production/live/index.m3u8
 #EXTINF:-1 tvg-id="WBNSDT1.us" tvg-logo="https://i.imgur.com/S5Hqowu.png" group-title="Anglais",CBS 10 Columbus OH (WBNS) (1080p)
 https://lnc-wbns.tubi.video/live.m3u8
